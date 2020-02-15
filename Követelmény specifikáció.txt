@@ -1,0 +1,34 @@
+Jelenlegi helyzet: 
+
+	Programozási környezet: Webprog
+
+Vágyálom rendszer:
+
+	Az alkalmazás a tanári felhasználó gombnyomására a rendszer áltatal tárolt e-mail címekre házi feladatot küld a 
+	korábbi érettségi feladatai közül egységesen vagy személyre szabva random módon.
+
+Jelenlegi folyamatok modellje (Hogy mûködik most a rendszer):
+	
+	-Vázlatosan mi mûködik
+
+Igényelt folyamatok modellje:
+
+	- Össze lehessen vetni mi lesz hasonló mi lesz más
+
+Törvények amiket figyelembe veszünk: 
+	
+	-A program a hatályos jogszabályok szerint mûködik
+	-A személyes adatok védelme biztosított
+	-Az adatszolgáltatásra vonatkozó törvény betartása
+	-Nyilvános feladatbankból dolgoztunk
+
+Személyes információk kezelése, formátumban adjuk kérjük a házit, nyilvános
+	
+	-A szeméyles információk titkosak
+	-A feladatot PDF formátumban küldi a rendszer e-mail csatolmányaként
+	-A rendszer nem nyilvános
+
+Iskolai szabályzat megfelelõ részei:
+	
+	-Az iskolai szabályzat nem rendelkezik külön a digitális házi feladatok kiadási módjáról
+

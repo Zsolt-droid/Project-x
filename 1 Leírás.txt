@@ -5,9 +5,9 @@ Git for Windows és Tortoise git telepítése.
 
 A projekt megvalósítói(képzési forma):
 
-Völgyesi Dávid ()
+Völgyesi Dávid (Informatika-médiaismerettanár)
 
-Legény Tamás ()
+Legény Tamás (Informatika-médiaismerettanár)
 
 Palkó Tamás (Fizika-informatika tanár)
 
@@ -17,11 +17,11 @@ Szabó-Pap Zsolt (Matematika-informatika tanár)
 
 A tagok felelõsségi köre:
 
-Völgyesi Dávid:
+Völgyesi Dávid: Programozás	
 
-Legény Tamás:
+Legény Tamás: Programozás
 
-Palkó Tamás : Trello 
+Palkó Tamás : Trello, programozás
 
 Szabó-Pap Zsolt: Github, tesztelés
 

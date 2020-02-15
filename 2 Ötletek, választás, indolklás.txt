@@ -10,6 +10,6 @@ Korábbi ötletek:
 	-Iskolai élményindex rendszer
 
 
-Végeredmény:
+Végeredmény: Házi feladat kiosztó alkalmazás
 
-Indoklás:
+Indoklás: Hasznos alkalmazást készítünk amely a házi feladat kisztására ad könnyítést.

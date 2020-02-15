@@ -7,6 +7,9 @@ Vágyálom rendszer:
 	Az alkalmazás a tanári felhasználó gombnyomására a rendszer áltatal tárolt e-mail címekre házi feladatot küld a 
 	korábbi érettségi feladatai közül egységesen vagy személyre szabva random módon.
 
+	-Tanári felületen osztályválasztó, csoportválasztó
+	-Importálni legessen csv, diáknév, osztály, e-mail cím. 
+
 Jelenlegi folyamatok modellje (Hogy mûködik most a rendszer):
 	
 	-Vázlatosan mi mûködik

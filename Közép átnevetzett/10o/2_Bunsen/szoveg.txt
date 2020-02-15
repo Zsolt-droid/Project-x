@@ -1,0 +1,21 @@
+1. dia
+Bunsen-égõ
+2. dia
+Szerkezet
+Laboratóriumi melegítésre általában gázégõket használunk
+égõcsõ
+forgatható gyûrû
+gázfúvóka
+gáztér
+gázbevezetõ csõ
+3. dia
+Mûködési elv
+Az égõ fúvókáján át jut a gáz a csõbe
+A fúvókán két egymással szemben lévõ levegõzõ nyílás van
+A lyukakat nyílással ellátott gyûrû elforgatásával zárhatjuk vagy nyithatjuk
+Ha a levegõzõ nyílásokat elzárjuk, a gáz a csõ végén világító és kormozó lánggal ég
+4. dia
+Alkalmazás: sók lángfestése
+lítium
+nátrium
+kálium

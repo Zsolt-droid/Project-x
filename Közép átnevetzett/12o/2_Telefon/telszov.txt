@@ -1,0 +1,19 @@
+﻿1. dia
+Útinformációk
+2. dia
+Az Útinform elérhetőségei
+A 06-1-336-2400 hívószámú információs rendszer felépítése:
+A hazai országúti információk 1-es gomb
+Útállapot, időjárás 2-es gomb
+Autópálya hírek 3-as gomb
+Fontosabb forgalomkorlátozások 4-es gomb
+A mai ügyeletessel beszélhet 0-as gomb
+Vissza a főmenübe * gomb
+3. dia
+Útállapot, időjárás
+Balesetek, torlódások
+Forgalomkorlátozások
+Vissza a főmenübe
+Autópálya hírek
+Egy menüszinttel feljebb
+Ügyeletes kapcsolása

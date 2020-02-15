@@ -1,0 +1,15 @@
+id	nev
+1	bal oldali védő
+2	jobb oldali középpályás
+3	bal szélső
+4	védekező középpályás
+5	bal oldali középpályás
+6	belső középpályás
+7	jobb szélső
+8	jobb oldali védő
+9	kapus
+10	középcsatár
+11	középső védő
+12	támadó középpályás
+13	hátravont csatár
+14	jobboldali védő

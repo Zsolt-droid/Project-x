@@ -1,0 +1,25 @@
+﻿QR kód
+    A QR kód  egy kétdimenziós vonalkód, amit a japán Toyota-csoport autóalkatrészeket gyártó leányvállalata, a Denso-Wave cég fejlesztett ki 1994-ben.     A cél egy olyan azonosító kidolgozása volt, amely az akkor már 20 éve használt egydimenziós vonalkódnál több információt képes tárolni kis területen, több karakterkészletet támogat, és ahhoz hasonlóan egyszerűen, gyorsan beolvasható. A problémára a kétdimenziós (ún. mátrix) kód volt a megoldás.     Ez nemcsak lineárisan egymás mellé helyezett információhordozó vonalakból áll, mint a hagyományos vonalkód, hanem mind a vízszintes, mind a függőleges tengely mentén hordoz adatokat.
+Tulajdonságai
+    Jó tulajdonsága, hogy a sarkokban található jellegzetes négyzet alakú mezők miatt -   amelyek egyébként szintén információhordozók -   egyrészt könnyű szkennelni, másrészt pedig szinte bármilyen szögből fényképezve   (akár elforgatva is)   könnyedén azonosítható és feldolgozható jelet kaphat az eszköz.
+Másik jelentős pozitív tulajdonsága a kód skálázhatósága, amit a Verzió 1-től Verzió 40-ig határoztak meg. A különböző verziók különböző adattárolási és hibatűrési tulajdonságokkal rendelkeznek.
+		QR kód	PDF417	DataMatrix	Maxi kód
+	Fejlesztő (ország)	DENSO (Japán)	Symbol Technologies (USA)	RVSI Acuity CiMatrix (USA)	UPS (USA)
+	Típus	Mátrix	Halmozott vonal kód	Mátrix	Mátrix
+Kapacitás	Számok	7,089	2,710	3,116	138
+	Alfanumerikus	4,296	1,850	2,355	93
+	Bináris	2,953	1,018	1,556	
+	Kanji	1,817	554	778	
+	Főbb jellemzői	Nagy kapacitás, kis nyomtatási méret, gyors beolvasás	Nagy kapacitás	Kis nyomtatási méret	Gyors beolvasás
+	Szabványosítók	AIM International JIS	ISO AIM International	ISO AIM International	ISO AIM International
+Szabványosítás
+    Hibatűrő képessége és a támogatott adatformátumok miatt hamar népszerűvé vált a kétdimenziós kódok között is. A JIS (Japán Ipari Szabvány) X 0510 számmal szabványként fogadta el 1999 januárjában, majd az ISO szabványként is felterjesztették. 2000 júniusában ISO/IEC 18004 nemzetközi szabvánnyá vált, amit 2006-ban kiegészítettek.
+Nemzetközi szabványként való elfogadása után még gyorsabb terjedésnek indult. Németországban például több városban is ilyen kódolással nyomtatnak vonaljegyet a tömegközlekedési eszközökön.
+A QR-kód nyílt szabvány, a specifikációi nyilvánosak, de a tulajdonosi jogokat a Denso Wave továbbra is fenntartja. Amerikában fel is tüntetik mindenütt, hogy a QR-kód a Denso Wave regisztrált védjegye.
+Érdekességek, tények
+    A QR kódok használata 2010-ről 2011-re 4589%-kal nőtt.
+    A QR kódok 56%-a a termékek csomagolásán jelenik meg.
+    A QR kódokat 64%-ban nők szkennelik be.
+    A felhasználók többsége arra számít, hogy kupont vagy árengedményt kap, ha beszkenneli a QR kódot.
+    A Fortune magazin listáján szereplő 50 cégből 11 már beépítette a QR kód alkalmazását saját marketing stratégiájába.
+Az   egyik áruházlánc Koreában QR kódokat tartalmazó virtuális kirakatokat helyezett el forgalmas helyeken, pl. metrómegállókban, melyek az áruházlánc legnagyobb forgalmú termékeit, főleg napi fogyasztási cikkeket ábrázolnak. Minden termék QR kóddal van ellátva, melyet a vásárlók okostelefonjukkal leolvashatnak, és ezek a leolvasott termékek egy virtuális kosárba kerülnek. A megrendelt termékeket telefonon keresztül lehet fizetni, majd ezt a nap végén házhoz szállítják. A szolgáltatás olyan népszerű lett, hogy ezzel az ország első online értékesítőjévé vált 130%-os növekedést produkálva.

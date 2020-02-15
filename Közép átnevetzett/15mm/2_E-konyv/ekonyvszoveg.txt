@@ -1,0 +1,29 @@
+﻿1.dia
+Az elektronikus könyv
+
+2.dia
+Az elektronikus könyv története
+1971 Project Gutenberg: elektronikus könyvek létrehozása és tárolása
+1998 E-könyv olvasásához készített eszközök (monochrom LCD-kijelzővel)
+1998 E-könyvet árusító online áruházak
+2000 Első, csak digitális formában megvásárolható írás
+2006 E-ink alapú digitális könyvolvasó
+
+3.dia
+Az e-könyv eladások növekedése*
+* Az Egyesült Államokban, millió dollárban (forrás: Association of American Publishers)
+
+4.dia
+Az e-ink működése
+A mikrokapszulákban pozitív töltésű fehér, és negatív töltésű fekete festékszemcsék vannak.
+
+5.dia
+További tudnivalók
+Formátumok:
+Általános dokumentumformátumok: txt, rtf, doc, html, pdf stb.
+E-könyvek közzétételéhez fejlesztett formátumok: epub, mobi, prc, azw, lit, pdb stb.
+DRM (digitális jogvédelem):
+a digitális tartalmak technikai és jogi védelme
+Ingyenes lelőhelyek:
+Magyar Elektronikus Könyvtár
+Digitális Irodalmi Akadémia

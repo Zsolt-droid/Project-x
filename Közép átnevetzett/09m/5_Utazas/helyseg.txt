@@ -1,0 +1,5 @@
+"az"	"nev"	"orszag"
+1	"Sousse"	"Tunézia"
+2	"Djerba"	"Tunézia"
+3	"Sharm El Sheikh"	"Egyiptom"
+4	"Hurghada"	"Egyiptom"

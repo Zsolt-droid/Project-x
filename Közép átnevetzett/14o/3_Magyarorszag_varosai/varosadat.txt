@@ -1,0 +1,381 @@
+﻿Magyarország városai
+
+A keresett város:	Megye	Népesség	Terület	Irányítószám	Mióta város
+Székesfehérvár
+
+
+	Statisztikai adatok:			Egy évszám:	2004
+	Magyarország lakossága:	9932000
+	Ebből városlakó (fő):
+	Ebből városlakó (%):
+
+	Városok száma megyénként:
+	Bács-Kiskun
+	Baranya
+	Békés
+	Borsod-Abaúj-Zemplén
+	Budapest
+	Csongrád
+	Fejér
+	Győr-Moson-Sopron
+	Hajdú-Bihar
+	Heves
+	Jász-Nagykun-Szolnok
+	Komárom-Esztergom
+	Nógrád
+	Pest
+	Somogy
+	Szabolcs-Szatmár-Bereg
+	Tolna
+	Vas
+	Veszprém
+	Zala
+
+
+Név	Megye	Népesség	Terület	Irányítószám	Mióta város	Népsűrűség
+Aba	Fejér	4619	88,05	8127	2013
+Abádszalók	Jász-Nagykun-Szolnok	3922	132,23	5241	2005
+Abaújszántó	Borsod-Abaúj-Zemplén	3088	47,36	3881	2004
+Abony	Pest	14876	127,97	2740	1993
+Ács	Komárom-Esztergom	6965	103,75	2941	2007
+Adony	Fejér	3912	61,05	2457	2004
+Ajak	Szabolcs-Szatmár-Bereg	3528	24,76	4524	2013
+Ajka	Veszprém	29058	95,05	8400	1959
+Albertirsa	Pest	12410	72,96	2730	2003
+Alsózsolca	Borsod-Abaúj-Zemplén	5937	26,02	3571	2007
+Aszód	Pest	6414	16,2	2170	1991
+Bábolna	Komárom-Esztergom	3654	33,55	2943	2003
+Bácsalmás	Bács-Kiskun	6697	108,32	6430	1986
+Badacsonytomaj	Veszprém	2080	32,71	8258	2004
+Baja	Bács-Kiskun	37330	177,61	6500	1885 előtt
+Baktalórántháza	Szabolcs-Szatmár-Bereg	4302	35,25	4561	1993
+Balassagyarmat	Nógrád	16133	23,74	2660	1923
+Balatonalmádi	Veszprém	9167	49,88	8220	1989
+Balatonboglár	Somogy	5932	32,04	8630	1991
+Balatonföldvár	Somogy	2064	15,32	8623	1992
+Balatonfüred	Veszprém	13532	46,45	8230	1971
+Balatonfűzfő	Veszprém	4299	9,25	8175	2000
+Balatonkenese	Veszprém	3195	65,57	8172	2009
+Balatonlelle	Somogy	4735	43,23	8638	1991
+Balkány	Szabolcs-Szatmár-Bereg	6215	89,99	4233	2004
+Balmazújváros	Hajdú-Bihar	17354	205,45	4060	1989
+Barcs	Somogy	11378	122,9	7570	1978
+Bátaszék	Tolna	6388	63,55	7140	1995
+Bátonyterenye	Nógrád	12604	78,92	3070	1989
+Battonya	Békés	5565	145,71	5830	1989
+Békés	Békés	19763	127,23	5630	1973
+Békéscsaba	Békés	63752	193,93	5600	1918
+Bélapátfalva	Heves	2996	36,63	3346	2004
+Beled	Győr-Moson-Sopron	2553	26,47	9343	2009
+Berettyóújfalu	Hajdú-Bihar	15167	170,98	4100	1978
+Berhida	Veszprém	5967	42,73	8181	2004
+Besenyszög	Jász-Nagykun-Szolnok	3372	138,08	5071	2013
+Biatorbágy	Pest	12805	44,12	2051	2007
+Bicske	Fejér	11642	77,08	2060	1986
+Biharkeresztes	Hajdú-Bihar	3888	49,26	4110	1989
+Bodajk	Fejér	4051	28,98	8053	2008
+Bóly	Baranya	3996	25,38	7754	1997
+Bonyhád	Tolna	13741	72,13	7150	1977
+Borsodnádasd	Borsod-Abaúj-Zemplén	3007	28,08	3671	2001
+Budakalász	Pest	10510	15,17	2011	2009
+Budakeszi	Pest	14507	37,1	2092	2000
+Budaörs	Pest	29605	23,59	2040	1986
+Budapest	Budapest	1740041	525,09	1000	1885 előtt
+Bük	Vas	3493	20,86	9737	2007
+Cegléd	Pest	37778	244,87	2700	1885 előtt
+Celldömölk	Vas	10786	52,39	9500	1978
+Cigánd	Borsod-Abaúj-Zemplén	2682	56,76	3973	2004
+Csákvár	Fejér	5221	118,76	8083	2013
+Csanádpalota	Csongrád	2968	77,76	6913	2009
+Csenger	Szabolcs-Szatmár-Bereg	4730	36,16	4765	1989
+Csepreg	Vas	3384	49,54	9735	1995
+Csongrád	Csongrád	16846	173,89	6640	1922
+Csorna	Győr-Moson-Sopron	10649	91,73	9300	1971
+Csorvás	Békés	4981	90,18	5920	2005
+Csurgó	Somogy	5186	59,42	8840	1989
+Dabas	Pest	16813	165,99	2370	1989
+Debrecen	Hajdú-Bihar	207594	461,66	4000	1885 előtt
+Demecser	Szabolcs-Szatmár-Bereg	4280	36,98	4516	2001
+Derecske	Hajdú-Bihar	8906	103,58	4130	1991
+Dévaványa	Békés	7622	216,55	5510	2000
+Devecser	Veszprém	4325	64,11	8460	1997
+Diósd	Pest	9522	5,75	2049	2013
+Dombóvár	Tolna	19494	78,48	7200	1970
+Dombrád	Szabolcs-Szatmár-Bereg	3900	51,84	4492	2000
+Dorog	Komárom-Esztergom	11996	11,54	2510	1984
+Dunaföldvár	Tolna	8666	111,42	7020	1989
+Dunaharaszti	Pest	20260	29,17	2330	2000
+Dunakeszi	Pest	40334	31,06	2120	1977
+Dunaújváros	Fejér	48010	52,67	2400	1951
+Dunavarsány	Pest	7480	22,52	2336	2004
+Dunavecse	Bács-Kiskun	3937	66,77	6087	2004
+Edelény	Borsod-Abaúj-Zemplén	10019	56,84	3780	1986
+Eger	Heves	56166	92,21	3300	1885 előtt
+Elek	Békés	4816	54,91	5742	1996
+Emőd	Borsod-Abaúj-Zemplén	4895	49,37	3432	2001
+Encs	Borsod-Abaúj-Zemplén	6201	25,8	3860	1984
+Enying	Fejér	6768	82,78	8130	1992
+Ercsi	Fejér	7999	65,31	2451	2000
+Érd	Pest	65277	60,54	2030	1978
+Esztergom	Komárom-Esztergom	30434	99,95	2500	1885 előtt
+Fegyvernek	Jász-Nagykun-Szolnok	6415	71,48	5231	2013
+Fehérgyarmat	Szabolcs-Szatmár-Bereg	7861	52,46	4900	1978
+Felsőzsolca	Borsod-Abaúj-Zemplén	6750	16,25	3561	1997
+Fertőd	Győr-Moson-Sopron	3461	48,56	9431	1995
+Fertőszentmiklós	Győr-Moson-Sopron	3891	39,39	9444	2008
+Fonyód	Somogy	4728	53,55	8640	1989
+Fót	Pest	18968	37,4	2151	2004
+Füzesabony	Heves	7781	46,34	3390	1989
+Füzesgyarmat	Békés	5665	127,34	5525	2000
+Gárdony	Fejér	9927	63,5	2483	1989
+Göd	Pest	18565	22,23	2131	1999
+Gödöllő	Pest	34172	61,92	2100	1966
+Gönc	Borsod-Abaúj-Zemplén	1951	37,27	3895	2001
+Gyál	Pest	23486	24,93	2360	1997
+Gyomaendrőd	Békés	13674	303,94	5500	1989
+Gyömrő	Pest	16670	26,51	2230	2001
+Gyöngyös	Heves	32385	55,31	3200	1885 előtt
+Gyöngyöspata	Heves	2472	60,75	3035	2013
+Gyönk	Tolna	2066	38,12	7064	2009
+Győr	Győr-Moson-Sopron	131564	174,62	9000	1885 előtt
+Gyula	Békés	31679	255,8	5700	1885 előtt
+Hajdúböszörmény	Hajdú-Bihar	31306	370,78	4220	1885 előtt
+Hajdúdorog	Hajdú-Bihar	8888	100,65	4087	1989
+Hajdúhadház	Hajdú-Bihar	12458	87,8	4242	1991
+Hajdúnánás	Hajdú-Bihar	16975	259,62	4080	1885 előtt
+Hajdúsámson	Hajdú-Bihar	13105	69,47	4251	2004
+Hajdúszoboszló	Hajdú-Bihar	23309	238,7	4200	1885 előtt
+Hajós	Bács-Kiskun	3134	89,92	6344	2008
+Halásztelek	Pest	9310	8,64	2314	2008
+Harkány	Baranya	4065	25,69	7815	1999
+Hatvan	Heves	20259	66,31	3000	1945
+Herend	Veszprém	3339	19,56	8440	1999
+Heves	Heves	10464	99,31	3360	1984
+Hévíz	Zala	4375	8,31	8380	1992
+Hódmezővásárhely	Csongrád	46522	487,98	6800	1885 előtt
+Ibrány	Szabolcs-Szatmár-Bereg	6842	60,39	4484	1993
+Igal	Somogy	1308	36,06	7275	2009
+Isaszeg	Pest	11397	54,84	2117	2008
+Izsák	Bács-Kiskun	5904	113,76	6070	1997
+Jánoshalma	Bács-Kiskun	8937	132,21	6440	1989
+Jánosháza	Vas	2401	23,41	9545	2013
+Jánossomorja	Győr-Moson-Sopron	5912	148,96	9241	2004
+Jászapáti	Jász-Nagykun-Szolnok	8947	78,16	5130	1989
+Jászárokszállás	Jász-Nagykun-Szolnok	7806	77,17	5123	1991
+Jászberény	Jász-Nagykun-Szolnok	26924	221,35	5100	1885 előtt
+Jászfényszaru	Jász-Nagykun-Szolnok	5621	76,16	5126	1993
+Jászkisér	Jász-Nagykun-Szolnok	5165	130,11	5137	2009
+Kaba	Hajdú-Bihar	5932	95,04	4183	2003
+Kadarkút	Somogy	2583	39,74	7530	2005
+Kalocsa	Bács-Kiskun	16959	53,18	6300	1921
+Kaposvár	Somogy	67686	113,59	7400	1885 előtt
+Kapuvár	Győr-Moson-Sopron	10353	96,05	9330	1969
+Karcag	Jász-Nagykun-Szolnok	19980	368,63	5300	1885 előtt
+Kazincbarcika	Borsod-Abaúj-Zemplén	28664	36,67	3700	1954
+Kecel	Bács-Kiskun	8687	114,48	6237	1993
+Kecskemét	Bács-Kiskun	114226	322,57	6000	1885 előtt
+Kemecse	Szabolcs-Szatmár-Bereg	4736	38,94	4501	2005
+Kenderes	Jász-Nagykun-Szolnok	4647	111,24	5331	2004
+Kerekegyháza	Bács-Kiskun	6300	81,28	6041	2001
+Kerepes	Pest	10087	24,08	2144	2013
+Keszthely	Zala	20895	75,98	8360	1954
+Kisbér	Komárom-Esztergom	5282	52,16	2870	1986
+Kisköre	Heves	2653	68,42	3384	2005
+Kiskőrös	Bács-Kiskun	14259	102,23	6200	1973
+Kiskunfélegyháza	Bács-Kiskun	29972	256,3	6100	1885 előtt
+Kiskunhalas	Bács-Kiskun	28427	227,58	6400	1885 előtt
+Kiskunmajsa	Bács-Kiskun	11766	221,99	6120	1989
+Kistarcsa	Pest	11975	11,02	2143	2005
+Kistelek	Csongrád	7020	69,19	6760	1989
+Kisújszállás	Jász-Nagykun-Szolnok	11367	205,27	5310	1885 előtt
+Kisvárda	Szabolcs-Szatmár-Bereg	16473	35,91	4600	1970
+Komádi	Hajdú-Bihar	5172	144,65	4138	2001
+Komárom	Komárom-Esztergom	19729	70,16	2900	1885 előtt
+Komló	Baranya	25020	46,55	7300	1951
+Kondoros	Békés	5201	81,84	5553	2013
+Kozármisleny	Baranya	6109	14,45	7761	2007
+Körmend	Vas	11676	52,79	9900	1978
+Körösladány	Békés	4582	123,79	5516	2007
+Kőszeg	Vas	12055	54,66	9730	1885 előtt
+Kunhegyes	Jász-Nagykun-Szolnok	7483	148,93	5340	1989
+Kunszentmárton	Jász-Nagykun-Szolnok	8373	143,65	5440	1986
+Kunszentmiklós	Bács-Kiskun	8515	172,11	6090	1989
+Lábatlan	Komárom-Esztergom	4992	26,35	2541	2004
+Lajosmizse	Bács-Kiskun	11073	164,66	6050	1993
+Lébény	Győr-Moson-Sopron	3159	81,39	9155	2013
+Lengyeltóti	Somogy	3227	39,57	8693	1992
+Lenti	Zala	7971	73,8	8960	1978
+Létavértes	Hajdú-Bihar	7090	116,62	4281	1996
+Letenye	Zala	4053	41,74	8868	1989
+Lőrinci	Heves	5880	23,53	3021	1992
+Maglód	Pest	11989	22,37	2234	2007
+Mágocs	Baranya	2388	42,54	7342	2009
+Makó	Csongrád	23573	229,23	6900	1885 előtt
+Mándok	Szabolcs-Szatmár-Bereg	4188	28,91	4644	2007
+Marcali	Somogy	11567	104,4	8700	1977
+Máriapócs	Szabolcs-Szatmár-Bereg	2042	22,09	4326	1993
+Martfű	Jász-Nagykun-Szolnok	6435	23,08	5435	1989
+Martonvásár	Fejér	5811	31,25	2462	2005
+Mátészalka	Szabolcs-Szatmár-Bereg	16957	41,4	4700	1969
+Medgyesegyháza	Békés	3691	64,29	5666	2009
+Mélykút	Bács-Kiskun	5081	123,46	6449	2009
+Mezőberény	Békés	10896	118,53	5650	1989
+Mezőcsát	Borsod-Abaúj-Zemplén	5891	103,08	3450	1991
+Mezőhegyes	Békés	4994	155,44	5820	1989
+Mezőkeresztes	Borsod-Abaúj-Zemplén	3803	74,25	3441	2009
+Mezőkovácsháza	Békés	6049	62,59	5800	1986
+Mezőkövesd	Borsod-Abaúj-Zemplén	16538	100,49	3400	1973
+Mezőtúr	Jász-Nagykun-Szolnok	17337	289,72	5400	1885 előtt
+Mindszent	Csongrád	6685	59,35	6630	1993
+Miskolc	Borsod-Abaúj-Zemplén	166823	236,66	3500	1885 előtt
+Mohács	Baranya	18604	112,23	7700	1924
+Monor	Pest	18395	46,79	2200	1989
+Mór	Fejér	14255	108,61	8060	1984
+Mórahalom	Csongrád	6067	83,15	6782	1989
+Mosonmagyaróvár	Győr-Moson-Sopron	32720	84,11	9200	1921
+Nádudvar	Hajdú-Bihar	8768	225,91	4181	1989
+Nagyatád	Somogy	10734	70,6	7500	1971
+Nagybajom	Somogy	3431	108,06	7561	2001
+Nagyecsed	Szabolcs-Szatmár-Bereg	6042	43,85	4355	1997
+Nagyhalász	Szabolcs-Szatmár-Bereg	5589	44,31	4485	1993
+Nagykálló	Szabolcs-Szatmár-Bereg	9870	68,52	4320	1989
+Nagykanizsa	Zala	49302	148,4	8800	1885 előtt
+Nagykáta	Pest	12563	81,61	2760	1989
+Nagykőrös	Pest	24433	227,94	2750	1885 előtt
+Nagymányok	Tolna	2273	10,68	7355	2009
+Nagymaros	Pest	4770	34,37	2626	1996
+Nyékládháza	Borsod-Abaúj-Zemplén	5001	24,67	3433	2003
+Nyergesújfalu	Komárom-Esztergom	7552	39,5	2536	1989
+Nyíradony	Hajdú-Bihar	7798	96,59	4254	1992
+Nyírbátor	Szabolcs-Szatmár-Bereg	12018	66,73	4300	1973
+Nyíregyháza	Szabolcs-Szatmár-Bereg	117658	274,54	4400	1885 előtt
+Nyírlugos	Szabolcs-Szatmár-Bereg	2701	58,38	4371	2005
+Nyírmada	Szabolcs-Szatmár-Bereg	4762	38,8	4564	2009
+Nyírtelek	Szabolcs-Szatmár-Bereg	6783	67,92	4461	2005
+Ócsa	Pest	9136	81,66	2364	2005
+Onga	Borsod-Abaúj-Zemplén	4775	31,49	3562	2013
+Orosháza	Békés	28910	202,22	5900	1946
+Oroszlány	Komárom-Esztergom	18627	75,86	2840	1954
+Ózd	Borsod-Abaúj-Zemplén	33750	91,65	3600	1949
+Őrbottyán	Pest	7439	27,38	2162	2013
+Őriszentpéter	Vas	1167	33,56	9941	2005
+Örkény	Pest	4966	36,44	2377	2004
+Pacsa	Zala	1758	22,71	8761	2009
+Paks	Tolna	19510	154,08	7030	1978
+Pálháza	Borsod-Abaúj-Zemplén	1000	6,75	3994	2005
+Pannonhalma	Győr-Moson-Sopron	3937	29,58	9090	2000
+Pápa	Veszprém	32052	91,62	8500	1885 előtt
+Pásztó	Nógrád	9569	72,6	3060	1984
+Pécel	Pest	15437	43,63	2119	1996
+Pécs	Baranya	156801	162,77	7600	1885 előtt
+Pécsvárad	Baranya	4022	36,03	7720	1993
+Pétervására	Heves	2464	33,87	3250	1989
+Pilis	Pest	11460	47,35	2721	2005
+Piliscsaba	Pest	8381	25,57	2081	2013
+Pilisvörösvár	Pest	13768	24,3	2085	1997
+Polgár	Hajdú-Bihar	7915	97,44	4090	1993
+Polgárdi	Fejér	6964	72,16	8154	1997
+Pomáz	Pest	17101	49,03	2013	2000
+Pusztaszabolcs	Fejér	5997	51,67	2490	2008
+Putnok	Borsod-Abaúj-Zemplén	6634	34,72	3630	1989
+Püspökladány	Hajdú-Bihar	14698	186,95	4150	1986
+Rácalmás	Fejér	4488	40,64	2459	2009
+Ráckeve	Pest	10022	64,09	2300	1989
+Rakamaz	Szabolcs-Szatmár-Bereg	4545	42,64	4465	2000
+Rákóczifalva	Jász-Nagykun-Szolnok	5359	35,94	5085	2009
+Répcelak	Vas	2414	13,82	9653	2001
+Rétság	Nógrád	2895	19,81	2651	1989
+Rudabánya	Borsod-Abaúj-Zemplén	2488	16,46	3733	2008
+Sajóbábony	Borsod-Abaúj-Zemplén	2782	13,43	3792	2009
+Sajószentpéter	Borsod-Abaúj-Zemplén	11965	34,85	3770	1989
+Salgótarján	Nógrád	36467	100,83	3100	1922
+Sándorfalva	Csongrád	7953	55,77	6762	2005
+Sárbogárd	Fejér	12448	189,33	7000	1986
+Sarkad	Békés	10011	125,57	5720	1989
+Sárospatak	Borsod-Abaúj-Zemplén	12590	139,11	3950	1968
+Sárvár	Vas	14764	64,65	9600	1968
+Sásd	Baranya	3282	14,88	7370	1995
+Sátoraljaújhely	Borsod-Abaúj-Zemplén	15355	73,46	3980	1899
+Sellye	Baranya	2752	25,18	7960	1997
+Siklós	Baranya	9631	50,92	7800	1977
+Simontornya	Tolna	4028	33,83	7081	1995
+Siófok	Somogy	24375	124,66	8600	1968
+Solt	Bács-Kiskun	6285	132,67	6320	1997
+Soltvadkert	Bács-Kiskun	7433	108,86	6230	1993
+Sopron	Győr-Moson-Sopron	61390	169,01	9400	1885 előtt
+Sülysáp	Pest	8292	47,19	2241	2013
+Sümeg	Veszprém	6190	64,13	8330	1984
+Szabadszállás	Bács-Kiskun	5896	164,62	6080	1995
+Szarvas	Békés	17007	161,57	5540	1966
+Százhalombatta	Pest	18896	28,06	2440	1970
+Szécsény	Nógrád	5682	45,83	3170	1986
+Szeged	Csongrád	170052	281	6700	1885 előtt
+Szeghalom	Békés	9115	217,13	5520	1984
+Székesfehérvár	Fejér	101722	170,89	8000	1885 előtt
+Szekszárd	Tolna	33311	96,28	7100	1905
+Szendrő	Borsod-Abaúj-Zemplén	4062	53,56	3752	1996
+Szentendre	Pest	26250	43,82	2000	1885 előtt
+Szentes	Csongrád	28476	353,25	6600	1885 előtt
+Szentgotthárd	Vas	8839	67,73	9970	1983
+Szentlőrinc	Baranya	6848	27,81	7940	1996
+Szerencs	Borsod-Abaúj-Zemplén	9100	36,68	3900	1984
+Szigethalom	Pest	17436	9,12	2315	2004
+Szigetszentmiklós	Pest	34877	45,65	2310	1986
+Szigetvár	Baranya	10772	39,51	7900	1966
+Szikszó	Borsod-Abaúj-Zemplén	5348	36,23	3800	1989
+Szob	Pest	2915	17,97	2628	2000
+Szolnok	Jász-Nagykun-Szolnok	74341	187,24	5000	1885 előtt
+Szombathely	Vas	79348	97,5	9700	1885 előtt
+Tab	Somogy	4242	25,86	8660	1989
+Tamási	Tolna	8389	111,96	7090	1984
+Tápiószele	Pest	6122	36,99	2766	2009
+Tapolca	Veszprém	15596	63,46	8300	1966
+Tát	Komárom-Esztergom	5343	12,18	2534	2013
+Tata	Komárom-Esztergom	24906	78,16	2890	1954
+Tatabánya	Komárom-Esztergom	70003	91,42	2800	1947
+Téglás	Hajdú-Bihar	6637	38,33	4243	1991
+Tét	Győr-Moson-Sopron	3877	56,35	9100	2001
+Tiszacsege	Hajdú-Bihar	4481	136,4	4066	2000
+Tiszaföldvár	Jász-Nagykun-Szolnok	11120	80,34	5430	1993
+Tiszafüred	Jász-Nagykun-Szolnok	10694	162,18	5350	1984
+Tiszakécske	Bács-Kiskun	11237	133,27	6060	1986
+Tiszalök	Szabolcs-Szatmár-Bereg	5517	58,72	4450	1992
+Tiszaújváros	Borsod-Abaúj-Zemplén	16557	46,04	3580	1966
+Tiszavasvári	Szabolcs-Szatmár-Bereg	12551	128,53	4440	1986
+Tokaj	Borsod-Abaúj-Zemplén	4839	28,2	3910	1986
+Tolna	Tolna	11367	71,07	7130	1989
+Tompa	Bács-Kiskun	4543	81,57	6422	2004
+Tótkomlós	Békés	5780	125,05	5940	1993
+Tököl	Pest	10416	38,49	2316	2001
+Törökbálint	Pest	13587	29,4	2045	2007
+Törökszentmiklós	Jász-Nagykun-Szolnok	21043	185,16	5200	1952
+Tura	Pest	7731	55,92	2194	2001
+Túrkeve	Jász-Nagykun-Szolnok	8741	236,52	5420	1885 előtt
+Újfehértó	Szabolcs-Szatmár-Bereg	13005	140,88	4244	1992
+Újhartyán	Pest	2780	22,43	2362	2013
+Újkígyós	Békés	5235	54,92	5661	2009
+Újszász	Jász-Nagykun-Szolnok	6360	58,2	5052	1997
+Üllő	Pest	11435	48,1	2225	2005
+Vác	Pest	34810	61,6	2600	1885 előtt
+Vaja	Szabolcs-Szatmár-Bereg	3545	28,61	4562	2009
+Vámospércs	Hajdú-Bihar	5263	58,19	4287	2001
+Várpalota	Veszprém	20305	77,26	8100	1951
+Vásárosnamény	Szabolcs-Szatmár-Bereg	8670	65,66	4800	1978
+Vasvár	Vas	4127	55,1	9800	1986
+Vecsés	Pest	20910	36,17	2220	2001
+Velence	Fejér	5359	33,37	2481	2004
+Vép	Vas	3358	32,89	9751	2009
+Veresegyház	Pest	16892	28,56	2112	1999
+Verpelét	Heves	3812	53,18	3351	2013
+Veszprém	Veszprém	64024	126,9	8200	1885 előtt
+Vésztő	Békés	6680	125,7	5530	2001
+Villány	Baranya	2474	22,02	7773	2000
+Visegrád	Pest	1863	33,27	2025	2000
+Záhony	Szabolcs-Szatmár-Bereg	3978	6,96	4625	1989
+Zalaegerszeg	Zala	61849	102,41	8900	1885
+Zalakaros	Zala	1846	17,17	8749	1997
+Zalalövő	Zala	3021	52,64	8999	2000
+Zalaszentgrót	Zala	6473	74,65	8790	1984
+Zamárdi	Somogy	2363	45,15	8621	2008
+Zirc	Veszprém	7096	37,4	8420	1984
+Zsámbék	Pest	5480	33,66	2072	2009

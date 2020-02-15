@@ -1,0 +1,29 @@
+id	nev	szuletesinev	valasztas	szuletett	szuletesihely	elhunyt	halalozasihely
+3	Máthé Erzsi	Mertz Erzsébet	2000.08.22	1927.05.16	Budafok		
+4	Raksányi Gellért		2000.08.22	1925.07.19	Szigetvár	2008.05.20	Budapest
+5	Psota Irén		2000.08.22	1929.03.28	Budapest		
+6	Kállai Ferenc	Krampner Ferenc	2000.08.22	1925.10.04	Gyoma	2010.07.11	Budapest
+9	Berek Kati	Berek Katalin	2000.08.22	1930.10.07	Makó		
+16	Törőcsik Mari	Törőcsik Marián	2000.08.22	1935.11.23	Pély		
+17	Bessenyei Ferenc		2000.08.22	1919.02.10	Hódmezővásárhely	2004.12.27	Lajosmizse
+21	Garas Dezső	Grósz Dezső	2000.08.22	1934.12.09	Budapest	2011.12.30	Budapest
+22	Sinkovits Imre		2000.08.22	1928.09.21	Kispest	2001.01.18	Budapest
+23	Lukács Margit		2000.08.22	1914.12.21	Budapest	2002.02.03	Budapest
+26	Agárdy Gábor	Arklián Gábor	2000.08.22	1922.08.02	Szeged	2006.01.19	Budapest
+27	Darvas Iván	Darvas Szilárd	2000.08.22	1925.06.14	Beje	2007.06.03	Budapest
+11	Avar István	Ginsberger István	2001.02.15	1931.03.20	Egercsehi	2014.09.13	Budapest
+13	Komlós Juci	Komlós Júlia	2002.03.04	1919.02.20	Szabadka	2011.04.05	Budapest
+18	Zenthe Ferenc	Rameshofer Ferenc	2005.01.18	1920.04.24	Salgóbánya	2006.07.30	Budapest
+2	Király Levente	Kőnig Levente	2006.09.20	1937.03.06	Budapest		
+14	Szabó Gyula		2006.02.07	1930.07.15	Kunszentmárton	2014.04.04	Budapest
+8	Bodrogi Gyula		2007.06.28	1934.04.15	Budapest		
+25	Tordy Géza		2008.06.18	1938.05.01	Budapest		
+7	Haumann Péter		2010.09.21	1941.05.17	Budapest		
+12	Molnár Piroska		2011.04.27	1945.10.01	Ózd		
+15	Sztankay István		2012.01.24	1936.02.14	Budapest	2014.09.12	Budapest
+10	Gera Zoltán		2014.04.22	1923.08.19	Szeged	2014.11.07	Budapest
+19	Bitskey Tibor		2014.09.29	1929.09.20	Rákoskeresztúr	2015.02.02	Budapest
+20	Cserhalmi György		2014.09.29	1948.02.17	Budapest		
+28	Kóti Árpád		2014.12.01	1934.11.15	Bucsa	2015.04.26	Debrecen
+1	Andorai Péter	Klócza Péter	2015.03.03	1948.04.25	Budapest		
+24	Szacsvay László	Szacsvay-Fehér László	2015.05.12	1947.10.27	Budapest		

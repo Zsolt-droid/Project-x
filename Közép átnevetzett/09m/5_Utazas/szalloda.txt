@@ -1,0 +1,13 @@
+"az"	"nev"	"besorolas"	"helyseg_az"	"tengerpart_tav"	"repter_tav"	"felpanzio"
+"BS"	"Baron Resort"	5	3	0	15	1
+"CL"	"Charm Life"	3	4	0	33	0
+"CP"	"Cesar Palace"	5	2	250	27	1
+"CW"	"Caribbean World Soma Bay"	5	4	0	55	0
+"CZ"	"Crowne Plaza"	4	3	400	9	1
+"FJ"	"Festival Le Jardin Resort"	4	4	0	17	0
+"HB"	"Lti Holiday Beach Resort"	4	2	100	20	1
+"JR"	"Jinene Resort"	4	1	50	25	1
+"MB"	"Marhaba"	3	1	0	25	1
+"MD"	"Miramar Djerba"	3	2	300	22	1
+"MP"	"El Mouradi Palace"	5	1	0	35	1
+"TA"	"Tropicana Azur"	4	3	400	9	0

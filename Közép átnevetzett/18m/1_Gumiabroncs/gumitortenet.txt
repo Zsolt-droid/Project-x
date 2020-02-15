@@ -1,0 +1,26 @@
+﻿A gumiabroncs rövid története
+A mai modern autók léte elképzelhetetlen lenne a gumiabroncsokkal felszerelt kerekek nélkül. Az autózás története szorosan összeforr az autók „lábbelijének”, a gumiabroncsnak a fejlődésével.
+Egészen 1839-ig kell visszamennünk az időben, hogy ez első, témánk szempontjából érdekes eseményről megemlékezzünk. Ebben az évben Charles Goodyear – egy véletlennek köszönhetően – felfedezte a vulkanizálást. A vulkanizálás folyamatának ismerete szükséges volt ahhoz, hogy a kezelt kaucsuk alkalmazható legyen később a járműtechnikában. Goodyear találmányának anyagi eredményét sajnos nem élvezhette, mert hiába szabadalmaztatta azt, még életében ellopták tőle az óriásgyárak. De ez egy másik történet…
+A következő fontos állomás a skót feltaláló, Robert William Thomson nevéhez fűződik, aki 1845-ben megalkotta az első pneumatikus abroncsot. Ez a gumi akkoriban még a korabeli kerékpáron teljesített szolgálatot, hiszen az automobil csak évtizedekkel később jelent meg. A találmány azonban – bár bejegyezték – drága előállítása és körülményes szerelhetősége miatt háttérbe szorult, majd feledésbe is merült… volna.
+Ám 1888 táján John Boyd Dunlop éppen azt figyelte, ahogy a tízéves Johnny fia belfasti házuk kertjében triciklizik, de a járgány kerekei mély nyomot szántanak a gyepbe. Elkezdett azon tűnődni, miképpen lehetne megakadályozni, hogy a keskeny és éles vaskerekek kifordítsák a fűcsomókat. Ekkor tekintete a kerti locsolócsőre tévedt, és azonnal megszületett fejében az ötlet. A gumislagot a tricikli kerekeire erősítette, mégpedig vízzel töltve. Próbálkozott vele, azonban a vízzel töltött kerék túlságosan rugalmatlannak és nehéznek bizonyult. Háziorvosa ötletéből kiindulva, aki felfújható kórházi matracok között dolgozott, levegővel helyettesítette a vizet. A locsolócsövet sehogy sem tudta fölerősíteni az abroncsra, ezért szövetborítású gumiszalagot szögelt egy fakorongra, így egy tömlő keletkezett. A levegő utántöltésére cumisüveg tetejéből szelepet készített, amelyen át egy futball-labdához használt pumpával felfújta, és fölszerelte azt a tricikli kerekeire. Dunlop is benyújtotta, sőt meg is kapta a szabadalmat ötletére, ezt azonban végül később érvénytelenítették, hiszen Thomson három évtizeddel előzte meg őt. A szintén skót Dunlop meglátta az üzleti lehetőséget találmányában, és először egy, majd kontinensszerte több gyárat is alapított. A gumiabroncsok már az ekkor megjelenő automobilok kerekein is feltűntek, de még túlnyomóan a kerékpárokon teljesítettek szolgálatot.
+A következő nagy lépés William Erskine Bartlett nevéhez fűződik, aki peremes kialakítással látta el és modernizálta a pneumatikus abroncsot (1890), így érve el stabilabb futást és hosszabb élettartamot. A ma használatos abroncs közvetlen elődjét Charles Kingston Welch alkotta meg, aki már fémszálakkal átszőtt abroncsszerkezetet használt. Végül 1913-ban Christian Hamilton Gray és Thomas Sloper szabadalmaztatta az első radiál szerkezetű gumiabroncsot. A mai modern autógumik ezen a találmányon alapulnak.
+Az utóbbi évtizedekben óriási fejlődésen ment keresztül az autóipar és vele párhuzamosan az abroncsok technikája. Hatalmas előrelépések történtek a felhasznált anyagok és technológiák területén. Mint minden területen, a számítógépes modellezés itt is új lehetőségeket nyitott meg a fejlesztésben és tervezésben.
+A mai modern abroncsok kínálata nagyon szerteágazó kategóriákra oszthatók. Gondoljunk csak a 300 km/h feletti végsebességre képes szupersportkocsikra, az üresen két és fél tonnát nyomó luxusterepjárókra, vagy a brazil külszíni fejtéseken szolgálatot teljesítő óriás bányadömperekre. Mindegyikre hasonló elven működő, mégis teljesen más igényeknek megfelelő gumiabroncsot kell a gyártóknak készíteniük.
+A mai személyautók kategóriájában alapvetően radiál szerkezetű (diagonál abroncsokat ma már csak szállítójárműveken és munkagépeken láthatunk), mintázat kialakítását tekintve szimmetrikus vagy aszimmetrikus dizájnú abroncsokat használunk. Előbbiek lehetnek forgásirányos vagy teljesen szimmetrikus mintázatúak:
+A forgásirányos abroncsok oldalfalán minden esetben megtalálható a helyes futás irányát mutató nyíl.
+Az aszimmetrikus abroncsoknak külső és belső oldala van. Helyes felszerelésüket az erre utaló többnyelvű felirat is segíti.
+Az alábbi táblázat azt mutatja, hogy egy adott méretű gumiabroncs hány inch széles felnire szerelhető fel.
+Gumiabroncs szélessége (mm)	Felni szélessége (inch)									
+	3,5	4,0	4,5	5,0	5,5	6,0	6,5	7,0	7,5	8,0
+135	x	x	x							
+145	x	x	x	x						
+155		x	x	x	x					
+165			x	x	x	x				
+175				x	x	x				
+185				x	x	x	x			
+195					x	x	x	x		
+205					x	x	x	x	x	
+225							x	x	x	x
+
+Végül említést kell tennünk az extra biztonságot és mobilitást nyújtó, defekttűrő abroncsokról, amelyek többfajta felépítéssel készülnek.
+Összességében a gumiabroncsgyártás technológiája és annak fejlődése egyike az autó-háttéripar legnagyobb kihívásainak, mivel az iparágban jelen lévő igények és célok állandóan fejlődnek, változnak.

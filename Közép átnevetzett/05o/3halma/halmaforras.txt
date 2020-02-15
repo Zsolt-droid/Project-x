@@ -1,0 +1,11 @@
+Halma
+A társas halmajátékok lényege a helycsere, amikor az indulóállásból társunkat megelõzve, igyekszünk áttelepíteni bábuinkat ellenfelünk bábuinak helyére.
+A halma Nagy-Britanniában született, nem túl régen, úgy 1880 táján. Nagyon hamar népszerû lett Európában, majd az egész világon. A halma az üldözéses játékok családjába tartozik.
+A játék szabályai:
+A 10*10 mezõs táblán két játékos játszhat 15-15 bábúval, vagy négy játékos, egyenként 10-10-zel.
+A kétszemélyes játéknál a tábla két szemközti sarkában, a négyszemélyes játszmában a négy sarokban állítjuk fel a bábukat vagy korongokat.
+A játék célja, hogy a játékosok (mindkét változatban) elfoglalják a sajátjukkal szemközti sarkot.
+A játékosok állapodjanak meg, hogy milyen sorrendben következnek egymás után!
+Tetszés szerinti irányban (elõre, hátra, jobbra, balra sorirányban vagy átlóirányban) bármelyik üres szomszédos mezõre léphetnek a bábuk: egy lépésben, egy bábu, egy pozíciót.
+Ugrani is szabad: mind a saját, mind az ellenfél korongját átugorhatja a "lépõ-haladó bábú" (de az ellenfél bábuit nem ütheti ki).
+Az nyer, akinek elsõként sikerül elfoglalnia a szemközt fekvõ sarok indulási helyzetét.

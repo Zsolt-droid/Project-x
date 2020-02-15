@@ -1,0 +1,13 @@
+﻿Snooker játék
+A játékot 15 piros, 6 színes és egy fehér golyóval játsszák
+A játék célja, hogy zsebbe tegyük a golyókat a szabályoknak megfelelően
+A golyók értékei:
+piros-1
+sárga-2
+zöld-3
+barna-4
+kék-5
+rózsaszín-6
+fekete-7 
+Az asztal
+és 2008 világbajnoka

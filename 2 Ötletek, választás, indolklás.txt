@@ -1,10 +1,13 @@
 Korábbi ötletek:
 
-
-
-
-
-
+	-Dolgozatjavító alkalmazás
+	-Képletkiértékelõ alkalmazás
+	-Házi feladat kiosztó alkalmazás
+	-Értékelõ alkalmazás
+	-Tanulóui fejlõdést nyomon követõ rendszer
+	-Bolgodságpontozó alkalmazás
+	-Gyakoroltató alkalmazás
+	-Iskolai élményindex rendszer
 
 
 Végeredmény:

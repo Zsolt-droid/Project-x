@@ -1,0 +1,27 @@
+A projekt a projektlabor tárgy teljesítése miatt jött létre.
+
+A projekt megvalósításához szükséges Trello és GitHub hozzáférés, továbbá
+Git for Windows és Tortoise git telepítése.
+
+A projekt megvalósítói(képzési forma):
+
+Völgyesi Dávid ()
+
+Legény Tamás ()
+
+Palkó Tamás (Fizika-informatika tanár)
+
+Szabó-Pap Zsolt (Matematika-informatika tanár)
+
+
+
+A tagok felelõsségi köre:
+
+Völgyesi Dávid:
+
+Legény Tamás:
+
+Palkó Tamás : Trello 
+
+Szabó-Pap Zsolt: Github, tesztelés
+

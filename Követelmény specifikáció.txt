@@ -13,6 +13,8 @@ Vágyálom rendszer:
 Jelenlegi folyamatok modellje (Hogy mûködik most a rendszer):
 	
 	-Vázlatosan mi mûködik
+	-Elkészült adatbázis
+	-Elkészült e-mail címek a teszteléshez
 
 Igényelt folyamatok modellje:
 

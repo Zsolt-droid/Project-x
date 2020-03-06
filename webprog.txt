@@ -1,0 +1,5 @@
+Webes felület:
+
+- Ûrlap (osztály + feladattípus kiválasztása [akár legördülõ listából kiválasztható]) / KÜLDÉS
+- Adatbázis (itt tároljuk az email címek + a feladatokat [táblában])
+- Importálási felület / FELTÖLTÉS --> vagy ûrlapon feltölteni / KÜLDÉS

@@ -295,7 +295,7 @@ INSERT INTO `tanulok` (`tanuloid`, `tanulonev`, `tanuloemail`, `osztalyid`) VALU
 (3, 'Mikolis Miklos', 'mikolismiklos@gmailcom', 9),
 (4, 'Kiss Andras', 'hella444@gmailcom', 9),
 (5, 'Bokros Aron', 'Bokros.Aron33@gmail.com', 9),
-(6, 'Horváth Roxana', 'roxiriroxi@gmailcom', 9),
+(6, 'Horvath Roxana', 'roxiriroxi@gmailcom', 9),
 (7, 'Kori Kalman', 'kalmankori59@gmailcom', 9),
 (8, 'Rath Tamas', 'TRNOMI@gmailcom', 10),
 (9, 'Juhi Bence', 'juhi.bence@gmailcom', 10),

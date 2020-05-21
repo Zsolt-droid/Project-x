@@ -220,14 +220,14 @@ INSERT INTO `feladatok` (`feladatnev`, `fajlnev`, `ev`, `honap`, `tipusid`, `ide
 ('Asztalterites', '18o_2.zip', 2018, 10, 2, 0, 30, 174),
 ('Internethasznalok aranya', '18o_3.zip', 2018, 10, 4, 0, 30, 175),
 ('Operett', '18o_4.zip', 2018, 10, 5, 0, 20, 176),
-('Fogyókúra', '19m_1.zip', 2019, 5, 1, 0, 40, 177),
+('Fogyókura', '19m_1.zip', 2019, 5, 1, 0, 40, 177),
 ('Nemzeti park', '19m_2.zip', 2019, 5, 2, 0, 30, 178),
-('Poggyász', '19m_3.zip', 2019, 5, 4, 0, 30, 179),
+('Poggyasz', '19m_3.zip', 2019, 5, 4, 0, 30, 179),
 ('Gyorsposta', '19m_4.zip', 2019, 5, 5, 0, 20, 180),
-('Újraélesztés', '19mm_1.zip', 2019, 5, 1, 1, 40, 181),
+('Ujraelesztes', '19mm_1.zip', 2019, 5, 1, 1, 40, 181),
 ('A haj', '19mm_2.zip', 2019, 5, 3, 1, 30, 182),
-('Bajnokság', '19mm_3.zip', 2019, 5, 4, 1, 30, 183),
-('Vetítések', '19mm_4.zip', 2019, 5, 5, 1, 20, 184);
+('Bajnoksag', '19mm_3.zip', 2019, 5, 4, 1, 30, 183),
+('Vetitesek', '19mm_4.zip', 2019, 5, 5, 1, 20, 184);
 
 -- --------------------------------------------------------
 

@@ -47,19 +47,16 @@ $emailek.=$sor2[1].', ';
             }
 //echo'</table>';
 
+//az email összeállítása és kiküldése
 
 $targy = 'Informatika házi feladat';
 
 $message = '<p>Kedves Tanuló!</p><p> A mai napon a számítógéptől kapod a házi feladatot.</p>'. $uzenet. '<p> Jó szórakozást hozzá</p>';
 
-
 $headers[] = 'MIME-Version: 1.0';
 $headers[] = 'Content-type: text/html; charset=utf-8';
-
 
 $headers[] = 'From: Feladat Alkalmazás <info@mathpedia.hu>';
 $headers[] = 'Bcc: palkotamasattila@gmail.com';
 
 mail($emailek, $targy, $message, implode("\r\n", $headers));
-
-

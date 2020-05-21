@@ -304,7 +304,7 @@ INSERT INTO `tanulok` (`tanuloid`, `tanulonev`, `tanuloemail`, `osztalyid`) VALU
 (14, 'Bokross Áron', 'Bokros.Aron33@freemail.hu', 10),
 (9, 'Szekeres Endre', 'szkekere@gmailcom', 10),
 (10, 'Pintér András', 'andraspinter@gmailcom', 10),
-(14, 'Patai Dániel', 'pataidani@gmailcom', 11),
+(14, 'Patai Dániel', 'pataidani@gmailcom', 11);
 
 --
 -- Indexes for dumped tables

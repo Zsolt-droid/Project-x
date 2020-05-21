@@ -29,7 +29,7 @@ if(mysqli_affected_rows($link)<>1)
 	}
 	else
 	{$sor = mysqli_fetch_row($result);
-	$uzenet ="<p>A számítógép által választott feladat:.".$sor[0]." (".$sor[2]."/".$sor[3].") amelyet a <a href=https://mathpedia.hu/feladatok/".$sor[1].">erről a linkről</a> tudsz letölteni.</p>";
+	$uzenet ="<p>A számítógép által választott feladat: ".$sor[0]." (".$sor[2]."/".$sor[3].") amelyet a <a href=https://mathpedia.hu/feladatok/".$sor[1].">erről a linkről</a> tudsz letölteni.</p>";
 	print $uzenet;
 	}
 

@@ -1,5 +1,24 @@
-Example :<br />
-<?php
-echo "The current date is ";
-echo date("l F d, Y");
-?>
+<!DOCTYPE html>
+<html>
+<head></head>
+<body>
+<form action="feldolgoz.php" method="post">
+<label for="feladattipus">Valassz feladattipust:</label>
+<select id="feladattipus" name="feladattipus">
+ <option value=1>Szovegszerkesztes</option>
+    <option value=2>Prezentaciokeszítes</option>
+    <option value=3>Weblapkeszites</option>
+    <option value=4>Tablazatkezeles</option>
+    <option value=4>Adatbazis-kezeles</option>
+</select><br>
+ <label for="feladattipus">Valassz osztalyt:</label>
+ <select id="osztalyid" name="osztalyid">
+    <option value=9>9. osztaly</option>
+    <option value=10>10. osztaly</option>
+    <option value=11>11. osztaly</option>
+    <option value=12>12. osztaly</option>
+  </select><br>
+<input type="submit">
+</form> 
+</body>
+</html>

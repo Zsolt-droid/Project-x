@@ -1,0 +1,20 @@
+Kód	Cím	Tárgy	Ár	ÁT
+MK 644-2759-4	Fizika I.	Fiz	1254 Ft	I
+NT 10127/I	Geometriai felad. gyûjt. I.	Mat	792 Ft	I
+CE 0002	Középisk. fizika példatár	Fiz	1200 Ft	I
+CR 0003	Földrajzi atlasz	Fö	1690 Ft	N
+CR 0008	Történelemi atlasz	Tö	1690 Ft	I
+KN 0010	Irodalom I.	Irod	660 Ft	I
+KN 0011	Irodalmi Szöv. Gyûjt. I.	Irod	1254 Ft	I
+MS 2309	Matematika 10.	Mat	1095 Ft	I
+MS 2616	Kémia 9.	Kém	1040 Ft	I
+NT 10163	Spanyol nyelvtan	Sp	1380 Ft	I
+NT 13103/1	Magyar nyelv	Nyt	398 Ft	I
+NT 13104/1	Történelem I.	Tö	939 Ft	I
+NT 13112	Mûalkotások elemzése	R	1990 Ft	N
+NT 13135/I	Matematika feladatgyûjt. I.	Mat	1160 Ft	N
+NT 13136	Látás és ábrázolás	R	1110 Ft	I
+NT 13166	Spanyol nyelvkönyv I.	Sp	1350 Ft	I
+NT 15133/1	Általános term. földrajz	Fö	1070 Ft	I
+NT 56440	Start neu TK	Né	1250 Ft	I
+NT 56440/M	Start neu MF	Né	849 Ft	I

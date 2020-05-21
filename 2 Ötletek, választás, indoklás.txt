@@ -1,0 +1,15 @@
+Korábbi ötletek:
+
+	-Dolgozatjavító alkalmazás
+	-Képletkiértékelõ alkalmazás
+	-Házi feladat kiosztó alkalmazás
+	-Értékelõ alkalmazás
+	-Tanulóui fejlõdést nyomon követõ rendszer
+	-Bolgodságpontozó alkalmazás
+	-Gyakoroltató alkalmazás
+	-Iskolai élményindex rendszer
+
+
+Végeredmény: Házi feladat kiosztó alkalmazás
+
+Indoklás: Hasznos alkalmazást készítünk amely a házi feladat kisztására ad könnyítést.

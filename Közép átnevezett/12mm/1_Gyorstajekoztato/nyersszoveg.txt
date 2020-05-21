@@ -1,0 +1,32 @@
+﻿Távközlés, internet 2009. IV. negyedév
+     2009 végén a mobiltelefon-előfizetések száma 11,8 millió volt. A telefonbeszélgetések időtartamának háromnegyede mobiltelefonokról indított hívásokból származott. Miközben a kábeles telefonálás egyre népszerűbb, a vezetékes vonalak száma tovább csökkent. Az internet-előfizetések száma 1 év alatt 472 ezerrel gyarapodott, majdnem átlepve a 2,8 milliót. 57 százalékuk a széles sávú technológiához (xDSL és kábeltévé) kötődik, ez a szolgáltatási terület 2008 vége óta 4 százalékkal bővült. A már egymilliós vezeték nélküli kategória egy év alatt másfélszeresére nőtt. Az összes előfizetés egyharmada mobilinternetre szól.
+A mobiltelefon-előfizetések száma egy év alatt 432 ezerrel (3,5%-kal) csökkent. Az állomány 2009 végén 11,8 milliós volt. Ezen belül a havidíjas előfizetések száma ugyan emelkedett, de ez nem tudta ellensúlyozni a feltöltő kártyás szegmens mintegy 802 ezres visszaesését. 100 lakosra 118 mobil-előfizetés jutott.
+Bár egyre több vállalkozás (köztük kábeltévé-, illetve internetszolgáltató) kínál vezetékes vonalat és hívásszolgáltatást, 2009 végén – előzetes adatok szerint – az egy évvel korábbinál 55 ezerrel kevesebb, 3,1 millió vezetékes fővonal volt üzemben, ennek 15%-a kábeltévés, 17%-a ISDN. A 100 lakosra jutó vezetékes fővonalak száma az időszak utolsó napján 31 volt. A vezetékes vonalakról indított hívások száma 9, időtartama 6%-kal csökkent 2008 utolsó negyedévéhez képest. A visszaesés hátterében a mobilforgalom emelkedése, valamint az egyre inkább terjedő ingyenes, ugyanakkor nem mérhető internetes telefonálási lehetőség áll.
+           Az egy vezetékes vonalra jutó beszélgetések (adatcélú forgalom nélküli) időtartama 459 perc volt, ami 3%-kal kevesebb, mint az előző év azonos időszakában.
+           A vezetékes hálózatokban indított hívások átlagos időtartama 3,2 percet tett ki, ami megegyezett az internethívások nélküli adattal.
+           A teljes évet tekintve 10, illetve 9%-os volt a hívások számának és hosszának az esése.
+Az árak mérséklődése, valamint a gyakran jelentős ingyenes idősávot és díjmentes hálózaton belüli beszélgetést is tartalmazó csomagok terjedése nyomán az előfizetők kevesebbszer, de hosszabb ideig beszélgetnek, mint mobiltelefonról. Az összes telefonbeszélgetésre fordított idő háromnegyedét mobilkészülékekről indított hívások tették ki. A vezetékes vonalról kezdeményezett internetcélú hívások számának és időtartamának részaránya is közel a felére csökkent a 2008-as évhez képest.
+Folytatódott az internetpiac bővülése: kevesebb ugyan a szolgáltató, az előfizető azonban több.
+           2009 IV. negyedévében az internetszolgáltatók száma 357 volt, 46-tal kevesebb, mint egy évvel korábban.
+           A piac koncentrált, 18 cég tudhatja magáénak az előfizetések 90%-át.
+           Az internet-előfizetések száma a 2009. év végén közel 2,8 millió volt, ez ötödével több, mint 2008 ugyanezen időpontjában.
+Az internetpiac fejlődése – az egyre korszerűbb technológiák térnyerése mellett – a szolgáltatók közötti élesedő versenynek is köszönhető. Miközben a vezetékes internet két legjelentősebb típusának terjedése lelassult, a vezeték nélküli* szegmens egy év alatt a másfélszeresére bővült. A nagymértékű változáshoz erőteljesen hozzájárult az egyre inkább megfizethető mobilinternet*, melynek növekedése 63%-os volt.
+Az összes előfizetésen belül 2008 végéhez képest lényegében nem változott a betárcsázós (kapcsoltvonali és ISDN együtt), 3, illetve 6 százalékponttal csökkent a kábeltévés és az xDSL-, viszont 8 százalékponttal lett magasabb a vezeték nélküli* szegmens előfizetéseinek részaránya.
+Az internetszolgáltatásokból származó nettó árbevétel a IV. negyedévben meghaladta a 34,9 milliárd forintot, ami az előfizetői akciók (például ingyenes hónapok) és a díjak mérséklődése folytán folyó áron 5%-kal volt kevesebb az egy évvel korábbinál. A 2009. évi teljes nettó árbevétel szinte megegyezett a 2008-as időszakéval.
+Vezetékes vonalak és mobil-előfizetések száma az időszak végén
+
+Év, negyedév		Bekapcsolt vezetékes fővonalak száma, ezer		Mobil-előfizetések száma, ezer		100 lakosra jutó vezetékes fővonalak száma	100 lakosra jutó mobil-előfizetések száma
+		összesen	ebből ISDN	összesen	ebből feltöltő kártyás		
+2008.	I.	3247	574	11232	6966	32,3	111,9
+2008.	II.	3207	574	11540	7163	32,0	115,0
+2008.	III.	3155	571	11771	7227	31,4	117,3
+2008.	IV.	3115	559	12224	7486	31,1	121,9
+							
+2009.	I.	3093	546	12112	7314	30,9	120,9
+2009.	II.	3090	533	11889	7039	30,8	118,7
+2009.	III.	3078	523	11783	6845	30,7	117,6
+2009.	IV.	3060	510	11792	6683	30,6	117,8
+
+1 Az itt megjelenő mobilinternet-előfizetések között nem vesszük számba a különböző – előfizetői szerződést, havi díjat nem igénylő – kuponos, napijegyes internetezőket. 2009 I. negyedévében a mobilinternet definíciója (a mobilszolgáltatók megegyezése alapján) változott a korábbi időszakokhoz képest.
+2 Pl. GPRS EDGE, 3G/HSDPA alapú internetszolgáltatás. 2009 I. negyedévében – a mobilszolgáltatók megegyezése alapján – megváltozott a mobilinternet-előfizetés definíciója. Előfizetések közé azon SIM-kártyák száma kerül, melyekre az adott naptári negyedév utolsó napján legalább 10 Mbyte adatmennyiséget tartalmazó, nulla forintnál nagyobb havidíjú internetszolgáltatás aktív volt (prepaid és postpaid). Ha a SIM-kártyára több díjcsomag is aktív volt, akkor is egy SIM-ként kell kimutatni.
+3 Az itt megjelenő mobilinternet-előfizetések között nem vesszük számba a különböző – előfizetői szerződést, havi díjat nem igénylő – kuponos, napijegyes internetezőket. 2009 I. negyedévében a mobilinternet definíciója (a mobilszolgáltatók megegyezése alapján) változott a korábbi időszakokhoz képest.

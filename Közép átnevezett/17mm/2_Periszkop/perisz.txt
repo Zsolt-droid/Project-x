@@ -1,0 +1,22 @@
+﻿Periszkóp
+
+Katonai alkalmazások
+Tengeralattjáró periszkóp: a tengeralattjáró elsődleges megfigyelő rendszere
+Árok periszkóp: az ellenség lövészárokból történő megfigyelése 
+Tank periszkóp: a harckocsi környezetének megfigyelése
+Bunker periszkóp: megfigyelés föld alá épített katonai létesítményből
+
+Civil alkalmazások
+Sport vagy tömeges rendezvények megfigyelése
+Vadászatban fedett helyről vadlesés
+Madártani megfigyelések
+Orvosi alkalmazások
+
+A periszkóp működése
+
+Történeti érdekességek
+Első leírás: Johannes Hevelius, 1647
+Haditengerészeti periszkóp ötlete: Hippolyte Marié-Davy, 1854
+Tökéletesítése (pl. nagyítás): Sir Howard Grubb, 1902 
+I. világháború: Lövészárokból periszkóppal irányított puska
+II. világháború: Tüzérségi megfigyelés, távolságmérő

@@ -1,0 +1,18 @@
+id	kerulet	cim
+1	III.	Testvérhegyi út 10/a
+2	IV.	Ugró Gyula sor 1-3.
+3	IV.	Zichy Mihály utca - Istvántelki út sarok
+4	VIII.	Sárkány utca 5.
+5	IX.	Ecseri út 9.
+6	X.	Fehér köz 2.
+7	XI.	Bánk bán utca 8-10.
+8	XIII.	Tatai út 96.
+9	XIV.	Füredi út 74.
+10	XV.	Károlyi Sándor út 166.
+11	XV.	Zsókavár utca 65. szám után
+12	XVI.	Csömöri út 2-4.
+13	XVII.	Gyökér köz 4.
+14	XVIII.	Jegenye fasor 15. mellett
+15	XVIII.	Besence utca 1/a.
+16	XXI.	Mansfeld Péter utca 86.
+17	XXII.	Nagytétényi út 341-343.

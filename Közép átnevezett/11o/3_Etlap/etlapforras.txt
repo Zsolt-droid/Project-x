@@ -1,0 +1,58 @@
+﻿kategória	ssz.	megnevezés	kcal	szénhidrát	ár	akciós ár
+Levesek	1	Almaleves	130	9	 550 			Menük
+	2	Fehérboros gombakrémleves	120	4	 550 
+	3	Fokhagymakrémleves	360	8	 550 			A menü
+	4	Gyümölcsleves	120	14	 550 			1
+	5	Málnakrémleves	90	6	 550 			22
+	6	Paradicsomleves	310	9	 600 			57
+	7	Póréhagyma krémleves	360	8	 550 
+	8	Szederkrémleves	110	5	 550 				1 adag ára:			1 adag kalóriatartalma
+	9	Szilvaleves	110	12	 550 				20 adag ára (10% kedvezménnyel)
+	10	Tárkonyos csirkeraguleves	290	9	 600 
+Főzelékek	11	Kapros tökfőzelék vagdalttal	440	23	 880 			B menü
+	12	Parajfőzelék vagdalttal	520	7	 920 			10
+	13	Rántott csirkemell meggymártással	490	13	 1 040 			35
+	14	Sóskafőzelék tükörtojással	290	6	 840 			50
+	15	Zöldbabfőzelék rántott csirkemellel	670	22	 970 
+	16	Zöldborsófőzelék töltött csirkemellel	720	24	 920 				1 adag ára:			1 adag kalóriatartalma
+Szárnyas ételek	17	Cordon Bleu csirkemell spárgapürével	700	12	 1 210 				20 adag ára (10% kedvezménnyel)
+	18	Csirkepaprikás galuskával	520	8	 1 210 
+	19	Fehérboros csirkemell paradicsomsalátával	410	10	 1 210 			C menü
+	20	Gombás-tejszínes pulykamellszelet galuskával	470	17	 970 			3
+	21	Joghurtos csirkecomb galuskával	600	9	 1 040 			42
+	22	Májjal töltött rántott pulykamell salátával	490	12	 1 090 			52
+	23	Mézes-mustáros csirkecomb párolt karfiollal	510	13	 970 
+	24	Pirított pulykamell sopszka salátával	350	9	 1 210 				1 adag ára:			1 adag kalóriatartalma
+	25	Pulykaragu pitában zöldsalátával és joghurtos öntettel	380	7	 980 				20 adag ára (10% kedvezménnyel)
+	26	Rántott csirkemell franciasalátával	570	18	 1 160 
+	27	Rántott csirkemell grillezett zöldségekkel	450	15	 1 090 
+	28	Rántott sajt salátával	570	13	 1 040 				A legnagyobb akciós ár:
+	29	Sült csirkecomb tejszínes gombamártással	590	5	 970 				Az étel neve:
+	30	Sült csirkemell tojásos zöldsalátával	440	5	 1 080 
+	31	Sült csirkemellcsíkok almás salátával	470	14	 1 080 
+	32	Sült pulykacomb mozzarellás sült zöldségekkel	550	18	 1 160 
+	33	Vadas pulykatokány spagettivel	500	12	 1 040 
+	34	Vajban sült csirkemell paradicsomos gombasalátával	310	9	 1 210 
+Zöldséges ételek	35	Csőben sült brokkoli sajttal	340	10	 1 210 
+	36	Rakott karalábé (pulykacombból)	500	25	 1 040 
+	37	Rakott sajtos patisszon	590	25	 1 000 
+	38	Rántott cukkini almás sajtsalátával	560	30	 1 000 
+	39	Székelykáposzta (pulykacombból)	390	15	 1 210 
+	40	Tojásos lecsó virslivel és galuskával	630	8	 1 000 
+	41	Töltött padlizsán tejfölös zöldmártással	470	21	 1 000 
+Tészták	42	Csirkés pizza	930	14	 1 470 
+	43	Juhtúrós sztrapacska	790	8	 1 040 
+	44	Milánói spagetti	470	14	 1 090 
+	45	Mustáros szűzpecsenye spagettivel	470	12	 1 210 
+	46	Négysajtos pizza	770	11	 1 210 
+	47	Sajtos-sonkás pizza	780	10	 1 210 
+Desszertek	48	Almás-fahéjas palacsinta vaníliaöntettel	130	9	 470 
+	49	Barackos lepény	190	6	 480 
+	50	Császármorzsa	330	14	 550 
+	51	Cseresznyés pite	220	10	 480 
+	52	Máglyarakás	310	11	 550 
+	53	Meggyes piskóta	330	18	 480 
+	54	Somlói galuska	380	9	 470 
+	55	Szilvás lepény	340	20	 480 
+	56	Túrógombóc fahéjas öntettel	440	11	 600 
+	57	Túrós palacsinta eperöntettel	240	9	 480 

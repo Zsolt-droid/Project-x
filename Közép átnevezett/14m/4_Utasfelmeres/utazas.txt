@@ -1,0 +1,841 @@
+honnan	hova	mikor	letszam
+Keleti pályaudvar	Erdősor út	5:12	1
+Keleti pályaudvar	Vadgesztenye utca	5:13	2
+Keleti pályaudvar	Árpád üzletház	5:13	1
+Keleti pályaudvar	Árpád üzletház	5:27	2
+Keleti pályaudvar	Chinoin utca	5:33	1
+Keleti pályaudvar	Erzsébet utca	5:46	3
+Keleti pályaudvar	Árpád üzletház	6:02	1
+Keleti pályaudvar	Erdősor út	6:03	1
+Keleti pályaudvar	Szent László tér	6:09	1
+Keleti pályaudvar	Erzsébet utca	6:25	4
+Keleti pályaudvar	Deák Ferenc utca	6:27	1
+Keleti pályaudvar	Vécsey Károly utca	6:41	1
+Keleti pályaudvar	Művelődési Központ	6:56	1
+Keleti pályaudvar	Erzsébet utca	7:21	1
+Keleti pályaudvar	Erdősor út	7:22	1
+Keleti pályaudvar	Vécsey Károly utca	7:33	1
+Keleti pályaudvar	Hősök tere M	7:36	1
+Keleti pályaudvar	Fóti út	8:07	4
+Keleti pályaudvar	Deák Ferenc utca	8:08	4
+Keleti pályaudvar	Szegedi út	8:14	1
+Keleti pályaudvar	Fóti út	8:17	1
+Keleti pályaudvar	Futár utca	8:43	1
+Keleti pályaudvar	Ősz utca	8:55	3
+Keleti pályaudvar	Hajló utca	9:05	12
+Keleti pályaudvar	Futár utca	9:07	1
+Keleti pályaudvar	Árpád üzletház	9:11	1
+Keleti pályaudvar	Vadgesztenye utca	9:26	1
+Keleti pályaudvar	Hajló utca	9:35	1
+Keleti pályaudvar	Rózsa utca	9:59	1
+Keleti pályaudvar	Szakorvosi rendelő	10:05	4
+Keleti pályaudvar	Vadgesztenye utca	10:08	1
+Keleti pályaudvar	Hősök tere M	10:32	4
+Keleti pályaudvar	Tél utca	10:41	1
+Keleti pályaudvar	Erzsébet utca	10:55	1
+Keleti pályaudvar	Rózsa utca	10:56	1
+Keleti pályaudvar	Szakorvosi rendelő	10:57	2
+Keleti pályaudvar	Szakorvosi rendelő	10:58	4
+Keleti pályaudvar	Futár utca	11:00	1
+Keleti pályaudvar	Árpád üzletház	11:05	2
+Keleti pályaudvar	Fóti út	11:07	8
+Keleti pályaudvar	Szakorvosi rendelő	11:19	3
+Keleti pályaudvar	Szent László tér	11:28	1
+Keleti pályaudvar	Szent László tér	11:35	1
+Keleti pályaudvar	Művelődési Központ	11:37	1
+Keleti pályaudvar	Tél utca	11:42	2
+Keleti pályaudvar	Futár utca	11:46	1
+Hősök tere M	Erdősor út	5:10	4
+Hősök tere M	Művelődési Központ	5:15	3
+Hősök tere M	Árpád üzletház	5:18	2
+Hősök tere M	Fóti út	5:26	1
+Hősök tere M	Rózsa utca	5:29	4
+Hősök tere M	Vadgesztenye utca	5:39	1
+Hősök tere M	Árpád üzletház	5:51	2
+Hősök tere M	Vécsey Károly utca	6:05	2
+Hősök tere M	Művelődési Központ	6:10	1
+Hősök tere M	Árpád üzletház	6:14	1
+Hősök tere M	Fóti út	6:22	2
+Hősök tere M	Ősz utca	7:00	3
+Hősök tere M	Káposztásmegyer, Szilas-patak	7:18	1
+Hősök tere M	Szakorvosi rendelő	7:18	4
+Hősök tere M	Ősz utca	7:48	1
+Hősök tere M	Deák Ferenc utca	7:48	1
+Hősök tere M	Rózsa utca	7:48	1
+Hősök tere M	Erdősor út	8:13	3
+Hősök tere M	Árpád üzletház	8:48	2
+Hősök tere M	Deák Ferenc utca	8:50	1
+Hősök tere M	Szegedi út	9:04	1
+Hősök tere M	Szakorvosi rendelő	9:16	3
+Hősök tere M	Rózsa utca	9:37	1
+Hősök tere M	Tél utca	9:44	5
+Hősök tere M	Káposztásmegyer, Szilas-patak	9:51	1
+Hősök tere M	Deák Ferenc utca	10:11	1
+Hősök tere M	Hajló utca	10:11	1
+Hősök tere M	Vécsey Károly utca	10:19	1
+Hősök tere M	Káposztásmegyer, Szilas-patak	10:41	1
+Hősök tere M	Erdősor út	10:45	1
+Hősök tere M	Fóti út	10:48	1
+Hősök tere M	Róbert Károly körút	10:48	1
+Hősök tere M	Erdősor út	10:54	1
+Hősök tere M	Vécsey Károly utca	10:55	7
+Hősök tere M	Erzsébet utca	11:06	1
+Hősök tere M	Szent László tér	11:06	1
+Hősök tere M	Vadgesztenye utca	11:44	1
+Róbert Károly körút	Szegedi út	5:00	2
+Róbert Károly körút	Rózsa utca	5:07	1
+Róbert Károly körút	Chinoin utca	5:10	1
+Róbert Károly körút	Szegedi út	5:16	1
+Róbert Károly körút	Tél utca	5:17	3
+Róbert Károly körút	Ősz utca	5:43	1
+Róbert Károly körút	Erzsébet utca	5:45	2
+Róbert Károly körút	Árpád üzletház	5:48	1
+Róbert Károly körút	Rózsa utca	6:05	1
+Róbert Károly körút	Vécsey Károly utca	6:43	1
+Róbert Károly körút	Ősz utca	6:48	1
+Róbert Károly körút	Erdősor út	6:55	1
+Róbert Károly körút	Művelődési Központ	7:05	1
+Róbert Károly körút	Szegedi út	7:08	1
+Róbert Károly körút	Ősz utca	7:45	1
+Róbert Károly körút	Chinoin utca	7:49	4
+Róbert Károly körút	Káposztásmegyer, Szilas-patak	8:05	1
+Róbert Károly körút	Vécsey Károly utca	8:37	7
+Róbert Károly körút	Vadgesztenye utca	8:44	2
+Róbert Károly körút	Vadgesztenye utca	9:00	1
+Róbert Károly körút	Árpád üzletház	9:29	1
+Róbert Károly körút	Szent László tér	10:04	1
+Róbert Károly körút	Hajló utca	10:21	1
+Róbert Károly körút	Erdősor út	10:25	1
+Róbert Károly körút	Szegedi út	10:32	1
+Róbert Károly körút	Futár utca	10:33	3
+Róbert Károly körút	Tél utca	10:33	2
+Róbert Károly körút	Káposztásmegyer, Szilas-patak	10:47	3
+Róbert Károly körút	Fóti út	10:56	1
+Róbert Károly körút	Deák Ferenc utca	11:02	2
+Róbert Károly körút	Káposztásmegyer, Szilas-patak	11:04	2
+Róbert Károly körút	Szakorvosi rendelő	11:05	1
+Róbert Károly körút	Szegedi út	11:16	1
+Róbert Károly körút	Művelődési Központ	11:32	3
+Róbert Károly körút	Szakorvosi rendelő	11:34	3
+Róbert Károly körút	Futár utca	11:47	1
+Róbert Károly körút	Vadgesztenye utca	11:57	1
+Szegedi út	Ősz utca	5:02	1
+Szegedi út	Rózsa utca	5:14	1
+Szegedi út	Árpád üzletház	5:14	3
+Szegedi út	Művelődési Központ	5:35	1
+Szegedi út	Káposztásmegyer, Szilas-patak	5:36	1
+Szegedi út	Chinoin utca	5:41	1
+Szegedi út	Hajló utca	5:58	1
+Szegedi út	Árpád üzletház	6:14	4
+Szegedi út	Szakorvosi rendelő	6:24	1
+Szegedi út	Művelődési Központ	6:30	3
+Szegedi út	Tél utca	7:04	2
+Szegedi út	Művelődési Központ	7:05	1
+Szegedi út	Erzsébet utca	7:14	1
+Szegedi út	Művelődési Központ	7:20	1
+Szegedi út	Futár utca	7:23	4
+Szegedi út	Szent László tér	7:23	1
+Szegedi út	Szent László tér	7:34	4
+Szegedi út	Fóti út	8:17	4
+Szegedi út	Hajló utca	8:33	4
+Szegedi út	Káposztásmegyer, Szilas-patak	8:35	1
+Szegedi út	Rózsa utca	8:45	4
+Szegedi út	Árpád üzletház	8:49	1
+Szegedi út	Művelődési Központ	8:53	2
+Szegedi út	Ősz utca	9:13	1
+Szegedi út	Árpád üzletház	9:18	1
+Szegedi út	Rózsa utca	9:20	4
+Szegedi út	Ősz utca	9:23	1
+Szegedi út	Ősz utca	9:25	1
+Szegedi út	Ősz utca	9:44	1
+Szegedi út	Tél utca	9:54	3
+Szegedi út	Tél utca	9:58	2
+Szegedi út	Erzsébet utca	10:07	1
+Szegedi út	Chinoin utca	10:15	1
+Szegedi út	Szakorvosi rendelő	10:19	3
+Szegedi út	Deák Ferenc utca	10:23	3
+Szegedi út	Futár utca	10:31	1
+Szegedi út	Erzsébet utca	10:52	4
+Szegedi út	Tél utca	10:55	1
+Szegedi út	Árpád üzletház	11:04	3
+Szegedi út	Művelődési Központ	11:05	3
+Szegedi út	Hajló utca	11:40	1
+Szegedi út	Erdősor út	11:49	3
+Futár utca	Hajló utca	5:04	1
+Futár utca	Chinoin utca	5:12	4
+Futár utca	Erzsébet utca	5:28	4
+Futár utca	Erdősor út	5:28	3
+Futár utca	Szakorvosi rendelő	5:43	1
+Futár utca	Káposztásmegyer, Szilas-patak	5:57	2
+Futár utca	Árpád üzletház	5:59	3
+Futár utca	Szakorvosi rendelő	6:05	3
+Futár utca	Deák Ferenc utca	6:20	4
+Futár utca	Erdősor út	6:27	2
+Futár utca	Vécsey Károly utca	6:31	1
+Futár utca	Chinoin utca	6:33	4
+Futár utca	Hajló utca	6:44	3
+Futár utca	Fóti út	7:32	1
+Futár utca	Vécsey Károly utca	8:05	32
+Futár utca	Chinoin utca	8:10	1
+Futár utca	Erdősor út	8:17	1
+Futár utca	Deák Ferenc utca	8:31	3
+Futár utca	Művelődési Központ	8:35	1
+Futár utca	Hajló utca	8:38	1
+Futár utca	Erzsébet utca	8:43	4
+Futár utca	Tél utca	8:58	1
+Futár utca	Szent László tér	9:00	1
+Futár utca	Hajló utca	9:08	4
+Futár utca	Chinoin utca	9:09	4
+Futár utca	Szakorvosi rendelő	9:10	4
+Futár utca	Szent László tér	9:16	1
+Futár utca	Vécsey Károly utca	9:17	4
+Futár utca	Tél utca	9:21	1
+Futár utca	Káposztásmegyer, Szilas-patak	9:23	4
+Futár utca	Deák Ferenc utca	9:42	13
+Futár utca	Erdősor út	9:46	1
+Futár utca	Káposztásmegyer, Szilas-patak	9:49	2
+Futár utca	Szent László tér	10:10	2
+Futár utca	Vadgesztenye utca	10:30	3
+Futár utca	Árpád üzletház	10:36	1
+Futár utca	Árpád üzletház	10:38	1
+Futár utca	Chinoin utca	11:02	2
+Futár utca	Művelődési Központ	11:12	1
+Futár utca	Vécsey Károly utca	11:12	1
+Futár utca	Rózsa utca	11:14	1
+Futár utca	Ősz utca	11:27	1
+Futár utca	Erdősor út	11:43	1
+Futár utca	Művelődési Központ	11:45	1
+Chinoin utca	Vadgesztenye utca	5:27	2
+Chinoin utca	Vadgesztenye utca	5:36	3
+Chinoin utca	Szakorvosi rendelő	5:44	3
+Chinoin utca	Deák Ferenc utca	5:55	1
+Chinoin utca	Szakorvosi rendelő	5:55	3
+Chinoin utca	Rózsa utca	6:57	1
+Chinoin utca	Tél utca	7:02	1
+Chinoin utca	Művelődési Központ	7:02	1
+Chinoin utca	Vadgesztenye utca	7:04	2
+Chinoin utca	Szakorvosi rendelő	7:09	4
+Chinoin utca	Ősz utca	7:12	1
+Chinoin utca	Szent László tér	7:37	1
+Chinoin utca	Tél utca	7:41	1
+Chinoin utca	Fóti út	7:43	1
+Chinoin utca	Fóti út	7:51	1
+Chinoin utca	Fóti út	7:53	2
+Chinoin utca	Szent László tér	8:01	1
+Chinoin utca	Hajló utca	8:07	1
+Chinoin utca	Szent László tér	8:20	1
+Chinoin utca	Tél utca	8:28	4
+Chinoin utca	Ősz utca	8:42	4
+Chinoin utca	Ősz utca	8:52	1
+Chinoin utca	Tél utca	9:06	4
+Chinoin utca	Erzsébet utca	9:09	2
+Chinoin utca	Hajló utca	9:09	11
+Chinoin utca	Tél utca	9:14	1
+Chinoin utca	Tél utca	9:31	1
+Chinoin utca	Hajló utca	9:36	1
+Chinoin utca	Vécsey Károly utca	9:37	2
+Chinoin utca	Szent László tér	9:37	4
+Chinoin utca	Erzsébet utca	9:38	1
+Chinoin utca	Hajló utca	9:43	3
+Chinoin utca	Erzsébet utca	10:14	1
+Chinoin utca	Deák Ferenc utca	10:44	1
+Chinoin utca	Káposztásmegyer, Szilas-patak	10:48	1
+Chinoin utca	Fóti út	11:24	1
+Chinoin utca	Fóti út	11:30	4
+Chinoin utca	Ősz utca	11:31	1
+Chinoin utca	Árpád üzletház	11:39	2
+Chinoin utca	Szakorvosi rendelő	11:45	4
+Chinoin utca	Hajló utca	11:45	1
+Chinoin utca	Árpád üzletház	11:49	1
+Chinoin utca	Deák Ferenc utca	11:54	4
+Tél utca	Erzsébet utca	5:12	1
+Tél utca	Árpád üzletház	5:19	4
+Tél utca	Vadgesztenye utca	5:24	1
+Tél utca	Árpád üzletház	5:26	1
+Tél utca	Művelődési Központ	5:27	2
+Tél utca	Rózsa utca	5:32	1
+Tél utca	Művelődési Központ	5:45	4
+Tél utca	Erzsébet utca	5:50	1
+Tél utca	Hajló utca	5:56	1
+Tél utca	Káposztásmegyer, Szilas-patak	5:58	1
+Tél utca	Művelődési Központ	6:07	4
+Tél utca	Káposztásmegyer, Szilas-patak	6:29	1
+Tél utca	Ősz utca	6:59	1
+Tél utca	Erdősor út	7:05	1
+Tél utca	Árpád üzletház	7:11	1
+Tél utca	Deák Ferenc utca	7:17	1
+Tél utca	Fóti út	7:19	1
+Tél utca	Ősz utca	7:19	1
+Tél utca	Vadgesztenye utca	7:21	3
+Tél utca	Deák Ferenc utca	7:23	1
+Tél utca	Ősz utca	7:35	1
+Tél utca	Erdősor út	7:36	1
+Tél utca	Szent László tér	7:43	2
+Tél utca	Ősz utca	7:47	3
+Tél utca	Szakorvosi rendelő	8:03	3
+Tél utca	Fóti út	8:03	2
+Tél utca	Rózsa utca	8:15	1
+Tél utca	Erzsébet utca	8:19	1
+Tél utca	Deák Ferenc utca	8:19	4
+Tél utca	Fóti út	8:31	2
+Tél utca	Rózsa utca	8:34	1
+Tél utca	Vadgesztenye utca	8:40	3
+Tél utca	Deák Ferenc utca	8:42	1
+Tél utca	Ősz utca	8:53	4
+Tél utca	Árpád üzletház	8:55	1
+Tél utca	Vadgesztenye utca	9:27	1
+Tél utca	Árpád üzletház	9:42	2
+Tél utca	Szent László tér	10:17	1
+Tél utca	Erdősor út	10:24	5
+Tél utca	Káposztásmegyer, Szilas-patak	10:37	3
+Tél utca	Vadgesztenye utca	10:39	8
+Tél utca	Káposztásmegyer, Szilas-patak	10:44	4
+Tél utca	Vadgesztenye utca	11:00	1
+Tél utca	Vécsey Károly utca	11:03	4
+Tél utca	Erzsébet utca	11:03	1
+Tél utca	Vécsey Károly utca	11:43	1
+Tél utca	Deák Ferenc utca	11:44	1
+Erzsébet utca	Ősz utca	5:05	1
+Erzsébet utca	Művelődési Központ	5:08	2
+Erzsébet utca	Árpád üzletház	5:16	4
+Erzsébet utca	Fóti út	5:23	1
+Erzsébet utca	Árpád üzletház	5:25	1
+Erzsébet utca	Művelődési Központ	5:51	1
+Erzsébet utca	Vécsey Károly utca	5:55	1
+Erzsébet utca	Árpád üzletház	6:02	1
+Erzsébet utca	Árpád üzletház	6:03	1
+Erzsébet utca	Szakorvosi rendelő	6:04	1
+Erzsébet utca	Erdősor út	6:16	1
+Erzsébet utca	Árpád üzletház	6:21	3
+Erzsébet utca	Rózsa utca	6:23	2
+Erzsébet utca	Erdősor út	6:29	1
+Erzsébet utca	Vadgesztenye utca	6:36	3
+Erzsébet utca	Művelődési Központ	6:37	4
+Erzsébet utca	Deák Ferenc utca	6:58	1
+Erzsébet utca	Vadgesztenye utca	7:30	1
+Erzsébet utca	Hajló utca	7:44	3
+Erzsébet utca	Ősz utca	7:48	4
+Erzsébet utca	Erdősor út	7:54	4
+Erzsébet utca	Vadgesztenye utca	8:15	1
+Erzsébet utca	Fóti út	8:35	2
+Erzsébet utca	Rózsa utca	8:35	4
+Erzsébet utca	Ősz utca	9:05	1
+Erzsébet utca	Szakorvosi rendelő	9:11	12
+Erzsébet utca	Hajló utca	9:19	1
+Erzsébet utca	Művelődési Központ	9:27	1
+Erzsébet utca	Fóti út	9:45	1
+Erzsébet utca	Árpád üzletház	9:50	1
+Erzsébet utca	Ősz utca	10:27	4
+Erzsébet utca	Rózsa utca	10:29	1
+Erzsébet utca	Hajló utca	10:41	4
+Erzsébet utca	Fóti út	10:42	2
+Erzsébet utca	Szakorvosi rendelő	10:44	2
+Erzsébet utca	Ősz utca	10:57	1
+Erzsébet utca	Ősz utca	11:04	1
+Erzsébet utca	Rózsa utca	11:10	3
+Erzsébet utca	Deák Ferenc utca	11:21	2
+Erzsébet utca	Hajló utca	11:31	1
+Erzsébet utca	Deák Ferenc utca	11:36	3
+Erzsébet utca	Művelődési Központ	11:53	3
+Rózsa utca	Káposztásmegyer, Szilas-patak	5:01	2
+Rózsa utca	Káposztásmegyer, Szilas-patak	5:02	1
+Rózsa utca	Vécsey Károly utca	5:05	1
+Rózsa utca	Árpád üzletház	5:07	1
+Rózsa utca	Deák Ferenc utca	5:16	2
+Rózsa utca	Deák Ferenc utca	5:29	3
+Rózsa utca	Művelődési Központ	5:36	2
+Rózsa utca	Vadgesztenye utca	5:36	2
+Rózsa utca	Árpád üzletház	5:45	1
+Rózsa utca	Vadgesztenye utca	5:56	4
+Rózsa utca	Szent László tér	5:58	1
+Rózsa utca	Erdősor út	6:01	1
+Rózsa utca	Művelődési Központ	6:12	2
+Rózsa utca	Fóti út	6:34	1
+Rózsa utca	Vécsey Károly utca	6:38	1
+Rózsa utca	Szakorvosi rendelő	7:06	4
+Rózsa utca	Művelődési Központ	7:08	1
+Rózsa utca	Árpád üzletház	7:19	1
+Rózsa utca	Hajló utca	7:22	1
+Rózsa utca	Szent László tér	8:14	1
+Rózsa utca	Árpád üzletház	8:21	3
+Rózsa utca	Ősz utca	8:29	1
+Rózsa utca	Hajló utca	8:35	1
+Rózsa utca	Vadgesztenye utca	8:43	1
+Rózsa utca	Deák Ferenc utca	8:45	3
+Rózsa utca	Szakorvosi rendelő	8:54	1
+Rózsa utca	Szent László tér	8:54	1
+Rózsa utca	Deák Ferenc utca	9:07	1
+Rózsa utca	Vadgesztenye utca	9:07	1
+Rózsa utca	Hajló utca	9:08	1
+Rózsa utca	Hajló utca	9:18	2
+Rózsa utca	Erdősor út	9:37	1
+Rózsa utca	Árpád üzletház	9:42	2
+Rózsa utca	Vadgesztenye utca	9:46	4
+Rózsa utca	Szent László tér	9:51	1
+Rózsa utca	Művelődési Központ	9:56	14
+Rózsa utca	Árpád üzletház	10:40	2
+Rózsa utca	Erdősor út	10:47	2
+Rózsa utca	Hajló utca	10:49	4
+Rózsa utca	Szakorvosi rendelő	10:52	1
+Rózsa utca	Szent László tér	10:53	1
+Rózsa utca	Ősz utca	11:08	4
+Rózsa utca	Hajló utca	11:08	1
+Rózsa utca	Káposztásmegyer, Szilas-patak	11:12	4
+Rózsa utca	Szent László tér	11:33	1
+Rózsa utca	Deák Ferenc utca	11:43	3
+Rózsa utca	Vadgesztenye utca	11:43	1
+Rózsa utca	Vadgesztenye utca	11:47	2
+Ősz utca	Szent László tér	5:15	3
+Ősz utca	Deák Ferenc utca	5:24	2
+Ősz utca	Vécsey Károly utca	5:26	3
+Ősz utca	Szent László tér	5:28	1
+Ősz utca	Káposztásmegyer, Szilas-patak	5:37	1
+Ősz utca	Művelődési Központ	5:53	1
+Ősz utca	Káposztásmegyer, Szilas-patak	6:04	3
+Ősz utca	Káposztásmegyer, Szilas-patak	6:07	1
+Ősz utca	Árpád üzletház	6:12	1
+Ősz utca	Árpád üzletház	6:18	4
+Ősz utca	Fóti út	6:20	1
+Ősz utca	Vécsey Károly utca	6:23	1
+Ősz utca	Vadgesztenye utca	6:34	4
+Ősz utca	Vécsey Károly utca	6:35	1
+Ősz utca	Hajló utca	6:40	1
+Ősz utca	Művelődési Központ	6:40	3
+Ősz utca	Szakorvosi rendelő	6:51	1
+Ősz utca	Szent László tér	7:13	2
+Ősz utca	Szent László tér	7:17	1
+Ősz utca	Vadgesztenye utca	8:06	3
+Ősz utca	Árpád üzletház	8:10	3
+Ősz utca	Erdősor út	8:11	1
+Ősz utca	Vadgesztenye utca	8:15	4
+Ősz utca	Fóti út	8:23	1
+Ősz utca	Szakorvosi rendelő	8:34	1
+Ősz utca	Hajló utca	8:57	1
+Ősz utca	Hajló utca	9:43	4
+Ősz utca	Szakorvosi rendelő	9:45	1
+Ősz utca	Szent László tér	9:53	1
+Ősz utca	Deák Ferenc utca	9:53	1
+Ősz utca	Árpád üzletház	10:18	11
+Ősz utca	Árpád üzletház	10:28	1
+Ősz utca	Művelődési Központ	10:29	4
+Ősz utca	Árpád üzletház	10:39	1
+Ősz utca	Fóti út	10:40	1
+Ősz utca	Szent László tér	11:12	4
+Ősz utca	Deák Ferenc utca	11:30	3
+Ősz utca	Vécsey Károly utca	11:31	1
+Árpád üzletház	Hajló utca	5:18	1
+Árpád üzletház	Vécsey Károly utca	5:31	3
+Árpád üzletház	Szakorvosi rendelő	5:36	1
+Árpád üzletház	Szent László tér	5:55	1
+Árpád üzletház	Káposztásmegyer, Szilas-patak	6:26	1
+Árpád üzletház	Vécsey Károly utca	6:40	3
+Árpád üzletház	Káposztásmegyer, Szilas-patak	6:53	1
+Árpád üzletház	Deák Ferenc utca	6:59	1
+Árpád üzletház	Szent László tér	7:32	3
+Árpád üzletház	Vadgesztenye utca	7:37	1
+Árpád üzletház	Fóti út	7:37	4
+Árpád üzletház	Vadgesztenye utca	8:08	4
+Árpád üzletház	Vécsey Károly utca	8:24	1
+Árpád üzletház	Vadgesztenye utca	8:37	3
+Árpád üzletház	Hajló utca	8:38	1
+Árpád üzletház	Fóti út	9:05	1
+Árpád üzletház	Vadgesztenye utca	9:14	3
+Árpád üzletház	Vadgesztenye utca	9:15	1
+Árpád üzletház	Szent László tér	9:23	4
+Árpád üzletház	Vécsey Károly utca	9:29	3
+Árpád üzletház	Káposztásmegyer, Szilas-patak	9:37	4
+Árpád üzletház	Káposztásmegyer, Szilas-patak	9:47	1
+Árpád üzletház	Hajló utca	9:51	3
+Árpád üzletház	Szent László tér	9:54	1
+Árpád üzletház	Káposztásmegyer, Szilas-patak	9:55	1
+Árpád üzletház	Művelődési Központ	10:03	4
+Árpád üzletház	Fóti út	10:06	4
+Árpád üzletház	Fóti út	10:11	7
+Árpád üzletház	Szakorvosi rendelő	10:16	1
+Árpád üzletház	Hajló utca	10:22	3
+Árpád üzletház	Vadgesztenye utca	10:23	1
+Árpád üzletház	Deák Ferenc utca	10:24	1
+Árpád üzletház	Hajló utca	10:25	1
+Árpád üzletház	Vécsey Károly utca	10:29	1
+Árpád üzletház	Szakorvosi rendelő	10:43	1
+Árpád üzletház	Szent László tér	10:52	1
+Árpád üzletház	Erdősor út	11:08	1
+Árpád üzletház	Hajló utca	11:11	4
+Árpád üzletház	Vadgesztenye utca	11:13	1
+Árpád üzletház	Szakorvosi rendelő	11:16	1
+Árpád üzletház	Káposztásmegyer, Szilas-patak	11:18	1
+Árpád üzletház	Szakorvosi rendelő	11:27	3
+Árpád üzletház	Művelődési Központ	11:31	1
+Árpád üzletház	Vécsey Károly utca	11:45	1
+Árpád üzletház	Vadgesztenye utca	11:46	1
+Árpád üzletház	Fóti út	11:51	4
+Deák Ferenc utca	Erdősor út	5:02	1
+Deák Ferenc utca	Káposztásmegyer, Szilas-patak	5:09	1
+Deák Ferenc utca	Hajló utca	5:19	1
+Deák Ferenc utca	Szakorvosi rendelő	5:23	1
+Deák Ferenc utca	Szakorvosi rendelő	5:27	2
+Deák Ferenc utca	Művelődési Központ	5:44	1
+Deák Ferenc utca	Szent László tér	5:50	1
+Deák Ferenc utca	Vadgesztenye utca	5:57	1
+Deák Ferenc utca	Szakorvosi rendelő	6:00	1
+Deák Ferenc utca	Hajló utca	6:09	4
+Deák Ferenc utca	Erdősor út	6:09	4
+Deák Ferenc utca	Szakorvosi rendelő	6:19	3
+Deák Ferenc utca	Fóti út	6:41	4
+Deák Ferenc utca	Szent László tér	7:07	1
+Deák Ferenc utca	Fóti út	7:15	1
+Deák Ferenc utca	Művelődési Központ	7:18	2
+Deák Ferenc utca	Hajló utca	7:22	3
+Deák Ferenc utca	Szakorvosi rendelő	7:24	4
+Deák Ferenc utca	Erdősor út	7:33	1
+Deák Ferenc utca	Káposztásmegyer, Szilas-patak	7:41	3
+Deák Ferenc utca	Művelődési Központ	8:16	4
+Deák Ferenc utca	Hajló utca	8:31	1
+Deák Ferenc utca	Hajló utca	8:32	1
+Deák Ferenc utca	Fóti út	8:44	1
+Deák Ferenc utca	Vécsey Károly utca	8:50	1
+Deák Ferenc utca	Fóti út	9:01	1
+Deák Ferenc utca	Hajló utca	9:12	1
+Deák Ferenc utca	Erdősor út	9:38	13
+Deák Ferenc utca	Vadgesztenye utca	10:23	2
+Deák Ferenc utca	Vécsey Károly utca	10:25	1
+Deák Ferenc utca	Hajló utca	10:36	3
+Deák Ferenc utca	Erdősor út	10:53	1
+Deák Ferenc utca	Szakorvosi rendelő	11:10	1
+Deák Ferenc utca	Szakorvosi rendelő	11:13	1
+Deák Ferenc utca	Vécsey Károly utca	11:30	1
+Deák Ferenc utca	Káposztásmegyer, Szilas-patak	11:44	1
+Deák Ferenc utca	Fóti út	11:56	1
+Deák Ferenc utca	Fóti út	11:57	4
+Szakorvosi rendelő	Erdősor út	5:06	4
+Szakorvosi rendelő	Fóti út	5:25	1
+Szakorvosi rendelő	Vadgesztenye utca	5:46	2
+Szakorvosi rendelő	Fóti út	5:48	1
+Szakorvosi rendelő	Káposztásmegyer, Szilas-patak	5:57	2
+Szakorvosi rendelő	Vadgesztenye utca	6:25	1
+Szakorvosi rendelő	Vécsey Károly utca	6:30	1
+Szakorvosi rendelő	Káposztásmegyer, Szilas-patak	6:30	1
+Szakorvosi rendelő	Vadgesztenye utca	6:38	4
+Szakorvosi rendelő	Vécsey Károly utca	6:41	1
+Szakorvosi rendelő	Fóti út	6:57	1
+Szakorvosi rendelő	Vadgesztenye utca	7:06	1
+Szakorvosi rendelő	Művelődési Központ	7:13	2
+Szakorvosi rendelő	Szent László tér	7:15	1
+Szakorvosi rendelő	Vécsey Károly utca	7:33	3
+Szakorvosi rendelő	Vadgesztenye utca	7:34	2
+Szakorvosi rendelő	Hajló utca	7:34	1
+Szakorvosi rendelő	Szent László tér	7:41	4
+Szakorvosi rendelő	Fóti út	7:53	1
+Szakorvosi rendelő	Vadgesztenye utca	8:11	1
+Szakorvosi rendelő	Fóti út	8:44	1
+Szakorvosi rendelő	Hajló utca	8:53	3
+Szakorvosi rendelő	Vécsey Károly utca	9:14	1
+Szakorvosi rendelő	Erdősor út	9:25	4
+Szakorvosi rendelő	Erdősor út	9:48	1
+Szakorvosi rendelő	Vécsey Károly utca	9:51	1
+Szakorvosi rendelő	Vadgesztenye utca	9:56	4
+Szakorvosi rendelő	Erdősor út	10:03	1
+Szakorvosi rendelő	Vadgesztenye utca	10:29	1
+Szakorvosi rendelő	Káposztásmegyer, Szilas-patak	10:31	1
+Szakorvosi rendelő	Vécsey Károly utca	10:41	1
+Szakorvosi rendelő	Művelődési Központ	10:44	1
+Szakorvosi rendelő	Hajló utca	10:48	1
+Szakorvosi rendelő	Erdősor út	11:21	1
+Szakorvosi rendelő	Hajló utca	11:21	1
+Szakorvosi rendelő	Káposztásmegyer, Szilas-patak	11:34	3
+Szakorvosi rendelő	Hajló utca	11:44	1
+Szakorvosi rendelő	Vadgesztenye utca	11:46	4
+Szakorvosi rendelő	Káposztásmegyer, Szilas-patak	11:57	2
+Szent László tér	Vadgesztenye utca	5:33	1
+Szent László tér	Művelődési Központ	5:34	2
+Szent László tér	Káposztásmegyer, Szilas-patak	5:52	2
+Szent László tér	Vadgesztenye utca	5:59	1
+Szent László tér	Káposztásmegyer, Szilas-patak	6:04	1
+Szent László tér	Vécsey Károly utca	6:04	1
+Szent László tér	Vadgesztenye utca	6:08	2
+Szent László tér	Vadgesztenye utca	6:20	4
+Szent László tér	Káposztásmegyer, Szilas-patak	6:36	1
+Szent László tér	Vadgesztenye utca	6:37	1
+Szent László tér	Hajló utca	6:40	1
+Szent László tér	Erdősor út	6:41	1
+Szent László tér	Fóti út	6:46	1
+Szent László tér	Művelődési Központ	6:53	1
+Szent László tér	Fóti út	6:54	1
+Szent László tér	Vadgesztenye utca	7:13	3
+Szent László tér	Fóti út	7:51	1
+Szent László tér	Hajló utca	7:55	4
+Szent László tér	Erdősor út	8:07	4
+Szent László tér	Művelődési Központ	8:10	5
+Szent László tér	Fóti út	8:20	2
+Szent László tér	Fóti út	8:37	4
+Szent László tér	Vadgesztenye utca	8:48	3
+Szent László tér	Vécsey Károly utca	9:13	1
+Szent László tér	Vécsey Károly utca	9:16	3
+Szent László tér	Vécsey Károly utca	9:21	2
+Szent László tér	Művelődési Központ	9:28	1
+Szent László tér	Művelődési Központ	9:44	4
+Szent László tér	Vadgesztenye utca	9:48	4
+Szent László tér	Erdősor út	9:55	1
+Szent László tér	Káposztásmegyer, Szilas-patak	9:56	1
+Szent László tér	Művelődési Központ	10:02	2
+Szent László tér	Művelődési Központ	10:19	2
+Szent László tér	Vécsey Károly utca	10:36	1
+Szent László tér	Művelődési Központ	10:38	1
+Szent László tér	Vécsey Károly utca	10:40	1
+Szent László tér	Fóti út	10:45	2
+Szent László tér	Erdősor út	11:06	4
+Szent László tér	Erdősor út	11:13	2
+Szent László tér	Erdősor út	11:16	1
+Szent László tér	Káposztásmegyer, Szilas-patak	11:36	1
+Szent László tér	Fóti út	11:42	1
+Szent László tér	Erdősor út	11:44	1
+Szent László tér	Káposztásmegyer, Szilas-patak	11:45	3
+Vécsey Károly utca	Káposztásmegyer, Szilas-patak	5:08	1
+Vécsey Károly utca	Erdősor út	5:14	1
+Vécsey Károly utca	Fóti út	5:29	1
+Vécsey Károly utca	Művelődési Központ	5:30	4
+Vécsey Károly utca	Vadgesztenye utca	6:02	1
+Vécsey Károly utca	Fóti út	6:08	1
+Vécsey Károly utca	Káposztásmegyer, Szilas-patak	6:13	1
+Vécsey Károly utca	Fóti út	6:15	1
+Vécsey Károly utca	Káposztásmegyer, Szilas-patak	6:46	4
+Vécsey Károly utca	Hajló utca	6:47	4
+Vécsey Károly utca	Káposztásmegyer, Szilas-patak	6:48	2
+Vécsey Károly utca	Fóti út	6:51	3
+Vécsey Károly utca	Hajló utca	6:58	1
+Vécsey Károly utca	Erdősor út	7:14	2
+Vécsey Károly utca	Művelődési Központ	7:42	1
+Vécsey Károly utca	Káposztásmegyer, Szilas-patak	7:56	1
+Vécsey Károly utca	Erdősor út	7:57	1
+Vécsey Károly utca	Hajló utca	8:07	2
+Vécsey Károly utca	Hajló utca	8:14	4
+Vécsey Károly utca	Hajló utca	8:27	2
+Vécsey Károly utca	Káposztásmegyer, Szilas-patak	8:28	1
+Vécsey Károly utca	Káposztásmegyer, Szilas-patak	8:33	1
+Vécsey Károly utca	Vadgesztenye utca	8:53	1
+Vécsey Károly utca	Káposztásmegyer, Szilas-patak	9:13	4
+Vécsey Károly utca	Hajló utca	9:15	3
+Vécsey Károly utca	Művelődési Központ	9:20	1
+Vécsey Károly utca	Erdősor út	9:50	1
+Vécsey Károly utca	Művelődési Központ	10:20	1
+Vécsey Károly utca	Erdősor út	10:20	1
+Vécsey Károly utca	Erdősor út	10:41	2
+Vécsey Károly utca	Művelődési Központ	10:54	1
+Vécsey Károly utca	Fóti út	11:22	1
+Vécsey Károly utca	Káposztásmegyer, Szilas-patak	11:58	4
+Fóti út	Vadgesztenye utca	5:05	1
+Fóti út	Hajló utca	5:18	1
+Fóti út	Káposztásmegyer, Szilas-patak	5:19	3
+Fóti út	Erdősor út	5:23	2
+Fóti út	Művelődési Központ	6:00	1
+Fóti út	Művelődési Központ	6:02	4
+Fóti út	Vadgesztenye utca	6:02	1
+Fóti út	Káposztásmegyer, Szilas-patak	6:05	4
+Fóti út	Erdősor út	6:16	3
+Fóti út	Művelődési Központ	6:16	3
+Fóti út	Művelődési Központ	6:25	3
+Fóti út	Vadgesztenye utca	6:28	1
+Fóti út	Erdősor út	6:41	1
+Fóti út	Művelődési Központ	6:50	4
+Fóti út	Művelődési Központ	6:51	2
+Fóti út	Káposztásmegyer, Szilas-patak	7:11	1
+Fóti út	Vadgesztenye utca	7:15	3
+Fóti út	Hajló utca	7:22	1
+Fóti út	Hajló utca	7:32	3
+Fóti út	Erdősor út	7:35	1
+Fóti út	Erdősor út	7:51	2
+Fóti út	Vadgesztenye utca	7:51	1
+Fóti út	Káposztásmegyer, Szilas-patak	7:57	3
+Fóti út	Vadgesztenye utca	8:11	4
+Fóti út	Káposztásmegyer, Szilas-patak	8:23	3
+Fóti út	Káposztásmegyer, Szilas-patak	8:24	1
+Fóti út	Káposztásmegyer, Szilas-patak	8:28	1
+Fóti út	Vadgesztenye utca	8:35	2
+Fóti út	Vadgesztenye utca	8:40	1
+Fóti út	Hajló utca	9:08	1
+Fóti út	Káposztásmegyer, Szilas-patak	9:14	4
+Fóti út	Erdősor út	9:25	2
+Fóti út	Káposztásmegyer, Szilas-patak	9:44	2
+Fóti út	Erdősor út	9:44	1
+Fóti út	Káposztásmegyer, Szilas-patak	9:50	3
+Fóti út	Művelődési Központ	9:55	12
+Fóti út	Hajló utca	10:02	3
+Fóti út	Művelődési Központ	10:27	2
+Fóti út	Erdősor út	10:44	1
+Fóti út	Művelődési Központ	10:45	3
+Fóti út	Vadgesztenye utca	10:52	4
+Fóti út	Vadgesztenye utca	10:55	1
+Fóti út	Vadgesztenye utca	11:20	2
+Fóti út	Káposztásmegyer, Szilas-patak	11:28	1
+Fóti út	Káposztásmegyer, Szilas-patak	11:49	1
+Fóti út	Erdősor út	11:49	1
+Vadgesztenye utca	Hajló utca	5:18	4
+Vadgesztenye utca	Káposztásmegyer, Szilas-patak	5:31	1
+Vadgesztenye utca	Hajló utca	5:54	1
+Vadgesztenye utca	Művelődési Központ	5:54	1
+Vadgesztenye utca	Káposztásmegyer, Szilas-patak	6:01	1
+Vadgesztenye utca	Művelődési Központ	6:03	1
+Vadgesztenye utca	Káposztásmegyer, Szilas-patak	6:11	1
+Vadgesztenye utca	Káposztásmegyer, Szilas-patak	6:23	1
+Vadgesztenye utca	Hajló utca	6:24	1
+Vadgesztenye utca	Erdősor út	6:50	1
+Vadgesztenye utca	Káposztásmegyer, Szilas-patak	7:02	1
+Vadgesztenye utca	Hajló utca	7:06	3
+Vadgesztenye utca	Művelődési Központ	7:08	1
+Vadgesztenye utca	Káposztásmegyer, Szilas-patak	7:11	4
+Vadgesztenye utca	Káposztásmegyer, Szilas-patak	7:19	4
+Vadgesztenye utca	Művelődési Központ	7:32	1
+Vadgesztenye utca	Művelődési Központ	7:48	1
+Vadgesztenye utca	Erdősor út	7:55	4
+Vadgesztenye utca	Káposztásmegyer, Szilas-patak	8:02	1
+Vadgesztenye utca	Káposztásmegyer, Szilas-patak	8:13	2
+Vadgesztenye utca	Hajló utca	8:14	3
+Vadgesztenye utca	Erdősor út	8:17	2
+Vadgesztenye utca	Hajló utca	8:25	1
+Vadgesztenye utca	Káposztásmegyer, Szilas-patak	8:32	1
+Vadgesztenye utca	Művelődési Központ	8:35	3
+Vadgesztenye utca	Erdősor út	8:36	1
+Vadgesztenye utca	Művelődési Központ	8:44	14
+Vadgesztenye utca	Káposztásmegyer, Szilas-patak	8:47	4
+Vadgesztenye utca	Művelődési Központ	8:50	3
+Vadgesztenye utca	Káposztásmegyer, Szilas-patak	9:08	1
+Vadgesztenye utca	Hajló utca	9:10	3
+Vadgesztenye utca	Erdősor út	9:20	1
+Vadgesztenye utca	Káposztásmegyer, Szilas-patak	9:27	1
+Vadgesztenye utca	Hajló utca	9:37	1
+Vadgesztenye utca	Művelődési Központ	9:48	1
+Vadgesztenye utca	Művelődési Központ	10:20	1
+Vadgesztenye utca	Káposztásmegyer, Szilas-patak	10:28	3
+Vadgesztenye utca	Hajló utca	11:02	1
+Vadgesztenye utca	Művelődési Központ	11:35	1
+Vadgesztenye utca	Hajló utca	11:58	2
+Erdősor út	Művelődési Központ	5:11	1
+Erdősor út	Művelődési Központ	5:16	1
+Erdősor út	Művelődési Központ	5:17	1
+Erdősor út	Káposztásmegyer, Szilas-patak	5:20	1
+Erdősor út	Káposztásmegyer, Szilas-patak	5:21	1
+Erdősor út	Hajló utca	5:27	1
+Erdősor út	Káposztásmegyer, Szilas-patak	5:36	1
+Erdősor út	Káposztásmegyer, Szilas-patak	5:40	2
+Erdősor út	Hajló utca	5:42	1
+Erdősor út	Művelődési Központ	5:54	1
+Erdősor út	Művelődési Központ	6:21	1
+Erdősor út	Hajló utca	6:22	3
+Erdősor út	Hajló utca	6:27	1
+Erdősor út	Káposztásmegyer, Szilas-patak	6:27	3
+Erdősor út	Káposztásmegyer, Szilas-patak	6:42	1
+Erdősor út	Káposztásmegyer, Szilas-patak	6:47	1
+Erdősor út	Hajló utca	6:57	4
+Erdősor út	Hajló utca	6:59	2
+Erdősor út	Hajló utca	7:20	2
+Erdősor út	Káposztásmegyer, Szilas-patak	7:25	1
+Erdősor út	Káposztásmegyer, Szilas-patak	7:47	3
+Erdősor út	Művelődési Központ	7:52	3
+Erdősor út	Hajló utca	8:10	4
+Erdősor út	Káposztásmegyer, Szilas-patak	8:15	4
+Erdősor út	Káposztásmegyer, Szilas-patak	8:27	2
+Erdősor út	Hajló utca	8:27	1
+Erdősor út	Hajló utca	8:55	1
+Erdősor út	Káposztásmegyer, Szilas-patak	8:57	3
+Erdősor út	Káposztásmegyer, Szilas-patak	8:59	2
+Erdősor út	Káposztásmegyer, Szilas-patak	9:12	3
+Erdősor út	Hajló utca	9:14	1
+Erdősor út	Káposztásmegyer, Szilas-patak	9:27	4
+Erdősor út	Művelődési Központ	9:28	1
+Erdősor út	Hajló utca	9:54	1
+Erdősor út	Káposztásmegyer, Szilas-patak	10:02	2
+Erdősor út	Káposztásmegyer, Szilas-patak	10:19	1
+Erdősor út	Káposztásmegyer, Szilas-patak	10:48	1
+Erdősor út	Művelődési Központ	10:48	1
+Erdősor út	Művelődési Központ	11:06	1
+Erdősor út	Káposztásmegyer, Szilas-patak	11:11	3
+Erdősor út	Káposztásmegyer, Szilas-patak	11:23	1
+Erdősor út	Hajló utca	11:35	4
+Erdősor út	Művelődési Központ	11:43	4
+Művelődési Központ	Káposztásmegyer, Szilas-patak	5:01	3
+Művelődési Központ	Hajló utca	5:04	1
+Művelődési Központ	Káposztásmegyer, Szilas-patak	5:07	2
+Művelődési Központ	Káposztásmegyer, Szilas-patak	5:19	1
+Művelődési Központ	Hajló utca	5:48	4
+Művelődési Központ	Hajló utca	6:00	1
+Művelődési Központ	Káposztásmegyer, Szilas-patak	7:06	2
+Művelődési Központ	Hajló utca	7:07	1
+Művelődési Központ	Káposztásmegyer, Szilas-patak	7:40	1
+Művelődési Központ	Káposztásmegyer, Szilas-patak	7:48	4
+Művelődési Központ	Hajló utca	8:14	1
+Művelődési Központ	Káposztásmegyer, Szilas-patak	8:42	4
+Művelődési Központ	Hajló utca	9:05	1
+Művelődési Központ	Hajló utca	9:05	10
+Művelődési Központ	Káposztásmegyer, Szilas-patak	9:14	2
+Művelődési Központ	Hajló utca	9:28	1
+Művelődési Központ	Káposztásmegyer, Szilas-patak	9:50	1
+Művelődési Központ	Káposztásmegyer, Szilas-patak	9:51	4
+Művelődési Központ	Hajló utca	9:55	3
+Művelődési Központ	Hajló utca	9:56	3
+Művelődési Központ	Hajló utca	9:58	4
+Művelődési Központ	Hajló utca	10:06	1
+Művelődési Központ	Káposztásmegyer, Szilas-patak	10:13	1
+Művelődési Központ	Káposztásmegyer, Szilas-patak	10:29	2
+Művelődési Központ	Káposztásmegyer, Szilas-patak	10:43	1
+Művelődési Központ	Káposztásmegyer, Szilas-patak	11:04	3
+Művelődési Központ	Hajló utca	11:06	1
+Művelődési Központ	Káposztásmegyer, Szilas-patak	11:09	3
+Művelődési Központ	Káposztásmegyer, Szilas-patak	11:18	1
+Művelődési Központ	Hajló utca	11:23	2
+Művelődési Központ	Káposztásmegyer, Szilas-patak	11:25	1
+Művelődési Központ	Káposztásmegyer, Szilas-patak	11:30	1
+Művelődési Központ	Hajló utca	11:40	2
+Művelődési Központ	Káposztásmegyer, Szilas-patak	11:52	1
+Művelődési Központ	Káposztásmegyer, Szilas-patak	11:58	3
+Hajló utca	Káposztásmegyer, Szilas-patak	5:01	3
+Hajló utca	Káposztásmegyer, Szilas-patak	5:19	2
+Hajló utca	Káposztásmegyer, Szilas-patak	5:27	1
+Hajló utca	Káposztásmegyer, Szilas-patak	5:29	1
+Hajló utca	Káposztásmegyer, Szilas-patak	5:35	3
+Hajló utca	Káposztásmegyer, Szilas-patak	5:35	4
+Hajló utca	Káposztásmegyer, Szilas-patak	5:51	1
+Hajló utca	Káposztásmegyer, Szilas-patak	5:56	1
+Hajló utca	Káposztásmegyer, Szilas-patak	6:00	1
+Hajló utca	Káposztásmegyer, Szilas-patak	6:08	3
+Hajló utca	Káposztásmegyer, Szilas-patak	6:20	1
+Hajló utca	Káposztásmegyer, Szilas-patak	6:25	1
+Hajló utca	Káposztásmegyer, Szilas-patak	6:41	1
+Hajló utca	Káposztásmegyer, Szilas-patak	6:53	1
+Hajló utca	Káposztásmegyer, Szilas-patak	7:00	1
+Hajló utca	Káposztásmegyer, Szilas-patak	7:20	1
+Hajló utca	Káposztásmegyer, Szilas-patak	7:29	2
+Hajló utca	Káposztásmegyer, Szilas-patak	7:34	1
+Hajló utca	Káposztásmegyer, Szilas-patak	7:41	1
+Hajló utca	Káposztásmegyer, Szilas-patak	7:48	1
+Hajló utca	Káposztásmegyer, Szilas-patak	7:51	2
+Hajló utca	Káposztásmegyer, Szilas-patak	7:52	4
+Hajló utca	Káposztásmegyer, Szilas-patak	7:57	1
+Hajló utca	Káposztásmegyer, Szilas-patak	8:00	1
+Hajló utca	Káposztásmegyer, Szilas-patak	8:01	1
+Hajló utca	Káposztásmegyer, Szilas-patak	8:38	1
+Hajló utca	Káposztásmegyer, Szilas-patak	8:39	1
+Hajló utca	Káposztásmegyer, Szilas-patak	8:43	3
+Hajló utca	Káposztásmegyer, Szilas-patak	9:06	2
+Hajló utca	Káposztásmegyer, Szilas-patak	9:15	1
+Hajló utca	Káposztásmegyer, Szilas-patak	9:18	1
+Hajló utca	Káposztásmegyer, Szilas-patak	9:29	2
+Hajló utca	Káposztásmegyer, Szilas-patak	9:44	4
+Hajló utca	Káposztásmegyer, Szilas-patak	9:50	1
+Hajló utca	Káposztásmegyer, Szilas-patak	9:55	4
+Hajló utca	Káposztásmegyer, Szilas-patak	10:20	4
+Hajló utca	Káposztásmegyer, Szilas-patak	10:21	2
+Hajló utca	Káposztásmegyer, Szilas-patak	10:32	1
+Hajló utca	Káposztásmegyer, Szilas-patak	10:35	1
+Hajló utca	Káposztásmegyer, Szilas-patak	10:39	1
+Hajló utca	Káposztásmegyer, Szilas-patak	10:40	1
+Hajló utca	Káposztásmegyer, Szilas-patak	10:41	4
+Hajló utca	Káposztásmegyer, Szilas-patak	10:45	3
+Hajló utca	Káposztásmegyer, Szilas-patak	11:01	1
+Hajló utca	Káposztásmegyer, Szilas-patak	11:02	1
+Hajló utca	Káposztásmegyer, Szilas-patak	11:15	2
+Hajló utca	Káposztásmegyer, Szilas-patak	11:25	4
+Hajló utca	Káposztásmegyer, Szilas-patak	11:25	3
+Hajló utca	Káposztásmegyer, Szilas-patak	11:32	1
+Hajló utca	Káposztásmegyer, Szilas-patak	11:33	1
+Hajló utca	Káposztásmegyer, Szilas-patak	11:33	3
+Hajló utca	Káposztásmegyer, Szilas-patak	11:35	2

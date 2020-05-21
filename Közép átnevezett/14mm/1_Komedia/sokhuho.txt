@@ -1,0 +1,67 @@
+﻿William Shakespeare
+Sok hűhó semmiért
+Fordította: Mészöly Dezső
+Személyek
+Don Pedro, Aragónia hercege
+Don Juan, a herceg fattyú öccse
+Claudio, ifjú firenzei gróf
+Benedetto, padovai nemes ifjú
+Leonato, Messina kormányzója
+Antonio, a bátyja, öreg ember
+Baltazár, énekes Don Pedro szolgálatában
+Boracchio
+Corrado, Don Juan emberei
+Egy követ
+Ferenc barát
+Lasponya, polgárőr
+Furkó, kisbíró
+Első őr
+Második őr
+Jegyző
+Egy fiú
+Egy úr
+Hero, Leonato leánya
+Beatrice, Leonato unokahúga
+Margaréta
+Ursula, Hero kísérő hölgyei
+Antonio fia, muzsikusok, őrök, szolgák
+Szín: Messina
+Első felvonás
+1. szín
+Leonato háza előtt.
+Jön Leonato, Messina kormányzója, Hero, a leánya
+és Beatrice, az unokahúga - egy követtel
+Leonato	Úgy értesültem a levélből, hogy Don Pedro, Aragónia hercege, ma este Messinába érkezik!
+Követ	Már közel járhat. Három mérföldnyire se volt innen, mikor előreküldött.
+Leonato	Hány nemest vesztettetek a csatában?
+Követ	Alig valakit. Nevezetes személyt, senkit.
+Leonato	Kétszeres a diadal, ha a vezér ép sereggel tér meg. Úgy látom, Don Pedro igen kitüntetett egy firenzei ifjút, bizonyos Claudiót.
+Követ	Igen kitüntette, mert igen rászolgált. Derekabbul vitézkedett, mint zsenge kora ígérte: bárány képében oroszlánként küzdött. Úgy túltett ő minden reményen, hogy énnekem semmi reményem túltenni rajta szavaimmal.
+Leonato	Él itt egy nagybátyja Messinában: az megörül ám majd ezen!
+Követ	Már vittem neki jelentést. Olyan túlcsorduló öröm tört ki belőle, hogy csupa szerénységből is illett néhány keserűbb cseppet vegyítenie hozzá.
+Leonato	Könnye hullott?
+Követ	Mint a zápor!
+Leonato	Kedves előttem a túláradó kedvesség. Nincs tisztább a könnyek mosta arcnál. Mennyivel jobb, aki örömében könnyet ejt, mint aki örvend a más könnyén!
+Beatrice	Mondd, kérlek, signor Handabanda is megjött a háborúból?... vagy nem?
+Követ	Senkit sem ismerek ezen a néven, hölgyem. Efféle nem is akadt a seregben.
+Leonato	Ki után kérdezősködsz, húgom?
+Hero	Kuzinom a padovai úrra gondol, signor Benedettóra.
+Követ	Á! Ő megjött, és vidámabb, mint valaha.
+Beatrice	Kiíratta itt Messinában, hogy kihívja Cupidót galamblövő versenyre. Bátyám udvari bolondja elolvasta a kihívást, és válaszolt neki Cupido nevében, hogy vállalja a versenyt, mert ő bizony telibe találja a tubicáját. - Mondd csak, hány embert ölt és evett meg Benedetto ebben a háborúban?... No, hányat ölt meg? Mert én megígértem neki, hogy ahányat csak megöl, azt én mind megeszem.
+Leonato	Esküszöm, húgom, jól fölmagasztalod ezt a signor Benedettót! De majd megkapod a magadét te is tőle, semmi kétség!
+Követ	Jó szolgálatot tett ő ebben a háborúban, kisasszonyom.
+Beatrice	Nyilván kezdett áporodni az élelem, s ő segített fölfalni. Rettenthetetlen hústrancsírozó: feneketlen a bendője.
+Követ	De férfi is a talpán, kisasszonyom.
+Beatrice	Ha csak a talpán férfi, akkor a kisasszonyokkal nem sokra megy. Hát a lovagokkal elbánik-e ez a talpas?
+Követ	Lovagokkal lovagias, emberekkel emberséges. Ő maga a tömény erény.
+Beatrice	Az ám, ha a tömés - erény. De legalább volna kemény... Jó, jó, mind halandók vagyunk.
+Leonato	Félre ne értsd húgomat, vitéz. Afféle tréfás háborúsdi folyik közte meg signor Benedetto közt. Ahányszor csak találkoznak, kezdődik a sziporkapárbaj.
+Beatrice	De jaj neki, mert mindig rajtaveszt. Múltkor is, hogy összecsaptunk, öt petárdája közül négy csütörtököt mondott, úgyhogy szegény fejének csak egy maradt. Ha az az egy még fellobban, kapva-kapjon rajta, mert különben ő sem lesz nagyobb lángelme a lovánál. Egyéb sütnivalója sem maradt azon az egy szem petárdáján kívül. - Ki most a cimborája? Havonta köt új örök barátságot.
+Követ	Lehetséges volna?...
+Beatrice	De mennyire! Annyit ér az eskü nála, mint egy kalap: a divat szerint váltogatja.
+Követ	Úgy látom, kisasszonyom, hogy ez a nemesúr nem szerepel a táncrendeden.
+Beatrice	Tűzre is vetném azt, ha szerepelne rajta! De mondd, ki a barátja? Nem akadt valami kalandor fickó útitársnak, hogy vele együtt menjen a pokolba?
+Követ	Legtöbbször a nemes Claudióval tart.
+Beatrice	Úristen! még ráragad, mint valami kórság! Mert ragadósabb ő, mint a pestis. S aki megkapja, az belébolondul. Isten óvja a nemes Claudiót! Ha egyszer ráragad Benedetto, ezer forintjába kerül, míg kikúráltatja magát.
+Követ	Rajta leszek, hogy magamra ne haragítsalak, hölgyem!
+Beatrice	Jól teszed, barátom.

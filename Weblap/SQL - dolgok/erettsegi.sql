@@ -301,7 +301,7 @@ INSERT INTO `tanulok` (`tanuloid`, `tanulonev`, `tanuloemail`, `osztalyid`) VALU
 (9, 'Juhi Bence', 'juhi.bence@gmailcom', 10),
 (10, 'Deutsch Karolina', 'deutsch.lina.33@gmailcom', 10),
 (11, 'Szterka Lehel', 'lehilehi777@gmailcom', 10),
-(12, 'Bokross Aron', 'Bokros.Aron33@freemail.hu', 10),
+(12, 'Bokros Aron', 'Bokros.Aron33@freemail.hu', 10),
 (13, 'Szekeres Endre', 'szkekere@gmailcom', 10),
 (14, 'Pinter Andras', 'andraspinter@gmailcom', 10),
 (15, 'Patai Daniel', 'pataidani@gmailcom', 11),
@@ -314,8 +314,8 @@ INSERT INTO `tanulok` (`tanuloid`, `tanulonev`, `tanuloemail`, `osztalyid`) VALU
 (22, 'Sni Bence', 'snibence@gmailcom', 12),
 (23, 'Bityok Matyas', 'mityokbityok6@gmailcom', 12),
 (24, 'Duda Vanda', 'dudavanda003300@gmailcom', 12),
-(25, 'Bokross Aron', 'Bokros.Aron33@indamail.hu', 11),
-(26, 'Bokross Aron', 'Bokros.Aron33@citromail.hu', 12);
+(25, 'Bokros Aron', 'Bokros.Aron33@indamail.hu', 11),
+(26, 'Bokros Aron', 'Bokros.Aron33@citromail.hu', 12);
 
 
 --

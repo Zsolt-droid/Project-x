@@ -29,7 +29,7 @@ if(mysqli_affected_rows($link)<>1)
 	}
 	else
 	{$sor = mysqli_fetch_row($result);
-	$uzenet ="<p>A számítógép által választott feladat:.".$sor[0]." (".$sor[2]."/".$sor[3].") amelyet a <a href=https://mathpedia.hu/feladatok/".$sor[1].">erről a linkről</a> tudsz letölteni.</p>";
+	$uzenet ="<p>A számítógép által választott feladat:".$sor[0]." (".$sor[2]."/".$sor[3].") amelyet a <a href=https://mathpedia.hu/feladatok/".$sor[1].">erről a linkről</a> tudsz letölteni.</p>";
 	print $uzenet;
 	}
 
@@ -37,15 +37,15 @@ if(mysqli_affected_rows($link)<>1)
 
 $sql2 = 'SELECT tanulonev, tanuloemail from tanulok where osztalyid='.$o; 
 $result2 = mysqli_query($link, $sql2);
-echo'<table border=1><tr><td>Tanuló neve</td><td>Email</td></tr>';
+//echo'<table border=1><tr><td>Tanuló neve</td><td>Email</td></tr>';
             while($sor2 = mysqli_fetch_array($result2)) {
-echo'<tr>';
+//echo'<tr>';
 $emailek.=$sor2[1].', ';
-print( '<td>'.$sor2[0].'</td>');
-print( '<td>'.$sor2[1].'</td>');
-echo'</tr>';
+//print( '<td>'.$sor2[0].'</td>');
+//print( '<td>'.$sor2[1].'</td>');
+//echo'</tr>';
             }
-echo'</table>';
+//echo'</table>';
 
 
 $targy = 'Informatika házi feladat';
@@ -56,10 +56,10 @@ $message = '<p>Kedves Tanuló!</p><p> A mai napon a számítógéptől kapod a h
 $headers[] = 'MIME-Version: 1.0';
 $headers[] = 'Content-type: text/html; charset=utf-8';
 
+
 $headers[] = 'From: Feladat Alkalmazás <info@mathpedia.hu>';
+$headers[] = 'Bcc: palkotamasattila@gmail.com';
 
-//mail($emailek, $targy, $message, implode("\r\n", $headers));
+mail($emailek, $targy, $message, implode("\r\n", $headers));
 
-print $message;
-print $targy;
 

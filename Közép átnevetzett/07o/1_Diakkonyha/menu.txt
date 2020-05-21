@@ -1,8 +1,0 @@
-nap	ora	perc	AmenuLeves	AmenuFoetel	AmenuAr	BmenuLeves	BmenuFoetel	BmenuAr
-Hétfõi	12	30	köménymagleves	lecsós virsli, tarhonya	580	sajtkrémleves	kelkáposztafõzelék, sült virsli	580
-Keddi	12	30	sárgaborsóleves	sóska, fõtt burgonya, fõtt tojás	610	sárgaborsóleves	szezámos csirkemellcsíkok, párolt rizs	1080
-Szerdai	13	15	tojásleves	tökfõzelék	570	tojásleves	zöldborsófõzelék	570
-Csütörtöki	12	30	zöldborsóleves	tárkonyos pulyamelltokány, párolt rizs	650	zöldborsóleves	csirkemellpaprikás, fõtt tészta	710
-Pénteki	12	10	májgaluskaleves	pásztortarhonya	640	májgaluskaleves	grízes tészta, lekvár	650
-Szombati	13	20	zöldbableves	rántott karfiol, párolt rizs	720	zöldségleves	csülökpörkölt, galuska	700
-Vasárnapi	13	15	gyümölcsleves	rántott sertésborda, párolt rizs	1040	megyleves	fõtt marhahús, fõtt burgonya, gyümölcsmártás	1050

@@ -1,6 +1,0 @@
-﻿A tangram részei
-A tangram 7 db síkidomból áll: 2 db kis, 1 db közepes, 2 db nagy háromszög, 1 db négyzet, 1 db paralelogramma
-
-A tangramozás szabályai
-Egy-egy alakzat kirakásához mind a hét lapot fel kell használni.
-A lapokat egymás mellé kell helyezni, nem takarhatják egymást.

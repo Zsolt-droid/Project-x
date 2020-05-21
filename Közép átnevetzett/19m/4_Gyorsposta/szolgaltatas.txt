@@ -1,9 +1,0 @@
-id	nev	elerheto
-1	csomagfeladás	-1
-2	csomagátvétel	-1
-3	ajánlott küldemény átvétele	-1
-4	csekkbefizetés	-1
-5	ajánlott küldemény feladása	-1
-6	pénzfelvétel	0
-7	hírlap előfizetés	0
-8	pénzügyi szolgáltatás	0

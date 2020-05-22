@@ -1,0 +1,7 @@
+TESZTESETEK
+
+A tesztelés során ellenőrizzük a létrehozott weboldalon megjelenő adatok és az adatbázis helyesen működik-e
+
+- Főoldalon a választási lehetőségek - ellenőrzése, megfelelő helyre irányít-e az adatbázisban
+- Majd a feldolgoz.php oldalon - a feltételnek megfelelő feladat jelenik-e meg, továbbá letudjuk-e tölteni, jó feladat kapcsolódik hozzá
+- Az adatbázisban található emailekre a feladatelküldésének tesztelése

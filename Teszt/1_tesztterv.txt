@@ -1,0 +1,12 @@
+TESZTTERV
+
+Célja:
+- hibakeresés és javítás
+- megfelelő működés ellenőrzése
+
+Terjedelme:
+- a teljes rendszerelemek ellenőrzése
+
+Stratégia:
+- weblap megnyitása számítógépről 
+- weblap megnyitása telefonról
